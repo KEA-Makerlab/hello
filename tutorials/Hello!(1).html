@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hello!</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><h2 id="printing-and-routing-vinyl-stickers-on-the-roland-versastudio-bn-20">Printing and Routing Vinyl Stickers on the Roland VersaSTUDIO BN-20</h2>
+
+<p>The BN-20 is capable of printing high-quality full color images on vinyl stickers and cutting out as custom shapes.</p>
+
+
+
+<h2 id="laying-out-your-sticker-designs">Laying out your sticker designs</h2>
+
+<p>To get started, open Adobe Illustrator and make a new file: File – New… and hit OK. <br>
+Click-and-drag your images into the window or open them via File – Open. (You can draw your stickers in Illustrator as well if you’re not working with images). <br>
+Arrange and resize your stickers. </p>
+
+<p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/transform.png?raw=true" alt="transform" title=""> <br>
+Click on your sticker - the “Transform” window at the top shows the dimensions. You can type these manually or scale the sticker by dragging the corners. (If this window isn’t there, select Window – Transform from the top menu)</p>
+
+<p>Check the maximum width of the roll of material that’s in the printer - you don’t want to put images outside the printing area.</p>
+
+
+
+<h2 id="cutting-out-the-sticker">Cutting out the Sticker</h2>
+
+<p>Our sticker printer has the special functions of printing metallic silver ink and cutting out custom shapes. You can set these functions in the “Swatches” window. <br>
+<img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/swatches.png?raw=true" alt="swatches" title=""></p>
+
+<blockquote>
+  <p><strong>Note:</strong> <br>
+  If this icon isn’t in the sidebar, you can bring it up by clicking <em>Window - Swatches</em>  <br>
+   In the top-right corner of the Swatches window, click <em>Options - Open Swatch Library - User Defined - Roland VersaWorks</em> <br>
+   <img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/swatches2.png?raw=true" alt="swatches2" title=""></p>
+</blockquote>
+
+<p>Draw a box or shape around where you want the sticker to be cut out. Select it, then click the first icon – “CutContour” . </p>
+
+<p>The cutting perimeter should turn pink. This color won’t show up on your sticker. (You can move it behind the sticker by right clicking and selecting Arrange – Send to Back if you’d like.)</p>
+
+<p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/cutcontour.png?raw=true" alt="cutContour" title=""></p>
+
+<p>I drew a rectangle around the edges of my image. I didn’t need a border.</p>
+
+<h2 id="metallic-ink">Metallic ink</h2>
+
+<p>If you’d like something printed in metallic ink, it works on the same principle. Select any shape and apply the RDG_MetallicSilver swatch to it. It will turn grey. <br>
+<img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/metallicsilver.png?raw=true" alt="MetallicSilver" title=""></p>
+
+<blockquote>
+  <p><strong>Note:</strong> <br>
+  If you change your mind about something that has a swatch applied to it, you need to manually select another color from the swatch menu. For example, if you decide to remove the cutting command from , instead of using the color menu on the left to select a color, open <em>Window - Swatches</em> and pick a new color there.</p>
+</blockquote>
+
+<p>Once your file is looking good, we need to save it as an .EPS – File – Save As… and Save as Type “Illustrator EPS”.  <br>
+<img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/eps.png?raw=true" alt="eps" title=""> <br>
+Click OK - the default settings are fine.</p>
+
+
+
+<h2 id="printing">Printing</h2>
+
+<p>Open <strong>VersaWorks Dual</strong> Software from the desktop or bottom dock.</p>
+
+<p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/vs1.png?raw=true" alt="vs1" title=""></p>
+
+<p>From the file menu, select “Add Job to Queue A” (or B - doesn’t really matter).</p>
+
+<p>Click the “Settings” icon in the bottom left corner.</p>
+
+<p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/vs2.png?raw=true" alt="vs2" title=""></p>
+
+<p>Under “Layout” we can calculate the material width for our vinyl roll. Make sure the material is sitting between the two metal “feet” and then click “Get Media Width”</p>
+
+<blockquote>
+  <p><strong>Checking that material is sitting correctly between metal feet:</strong> <br>
+  <img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/feet2.jpg?raw=true" alt="enter image description here" title=""></p>
+  
+  <p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/feet1.png?raw=true" alt="enter image description here" title=""></p>
+</blockquote>
+
+<p>You can set the location of the stickers in the layout menu if it doesn’t look right. <br>
+The top left of the preview window (coordinates 0,0) will be the right-side of the printing bed, printing top to bottom.</p>
+
+<p>Moving to the “Quality” tab:</p>
+
+<p>I’m using the standard vinyl.</p>
+
+<p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/colormode.png?raw=true" alt="colormode" title=""></p>
+
+<p>Under <em>Mode</em> you can select the order in which the inks are printed - </p>
+
+<ul>
+<li>CMYK is printing the standard colors only.</li>
+<li>CMYKMt is the colors and the metallic ink at the same time.</li>
+<li>Mt -&gt; CMYK is metallic ink first, then colors.</li>
+<li>MetallicSilver is just the metallic ink.</li>
+</ul>
+
+<p>These options can be important if you need the metallic ink to dry first, for example, or if you’re doing more complicated layer work.</p>
+
+<p><img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/tip.png?raw=true" alt="tip" title=""></p>
+
+<p>Under “Job Management”, select “RIP while Printing” to save time. </p>
+
+<blockquote>
+  <p><strong>Note:</strong> <br>
+  RIP (“Raster Image Processing”) is the process of translating the image file into code that the printer can use. This can be done all at once before you print, which the the default, or while it’s printing.</p>
+</blockquote>
+
+<p>In the main window, click the name of your job in the queue to the left. <br>
+<img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/specialitems.png?raw=true" alt="specialitems" title=""></p>
+
+<p>Under “Special Items”, you can double-check that the job is programmed correctly. If you’re using the cutting tool to cut out your sticker, the ‘A’ icon will be here. If you’re using metallic ink, the metal drop icon will be here.</p>
+
+<blockquote>
+  <p><strong>Note:</strong> <br>
+  If these special items are supposed to be here but you can’t see the icons, double-check that the correct swatch was selected in Illustrator (click the shapes that are supposed to be cut / be metallic and select the VersaWorks swatch again.)</p>
+</blockquote>
+
+<p>Once everything is set up, click the “Print” icon and you’re good to go. <br>
+<img src="https://github.com/KEA-Makerlab/hello/blob/master/img/tutorial/printCut/print.png?raw=true" alt="print" title=""></p></div></body>
+</html>
