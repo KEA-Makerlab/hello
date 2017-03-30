@@ -1,0 +1,2064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings CompactMode="1" Schema="41">
+	<AlphacamAddIns>
+		<Command ID="39648" Function="3D-Digitise:CmdMicroscribe"/>
+		<Command ID="39622" Function="APM:g_AutomationConfigure"/>
+		<Command ID="39621" Function="APM:g_AutomationMain"/>
+		<Command ID="39624" Function="APM:g_BackupDB"/>
+		<Command ID="39623" Function="APM:g_ConfigDB"/>
+		<Command ID="39620" Function="APM:g_Cutlist"/>
+		<Command ID="39625" Function="APM:g_MaintDB"/>
+		<Command ID="39626" Function="APM:g_SupportUtil"/>
+		<Command ID="39628" Function="APM:m_About"/>
+		<Command ID="39619" Function="APM:m_FittingDatums"/>
+		<Command ID="39618" Function="APM:m_FittingSave"/>
+		<Command ID="39627" Function="APM:m_Help"/>
+		<Command ID="39617" Function="APM:m_Processing"/>
+		<Command ID="39524" Function="AcamMultidrill:ClearMultidrill"/>
+		<Command ID="39525" Function="AcamMultidrill:LoadBitType"/>
+		<Command ID="39522" Function="AcamMultidrill:LoadMultidrill"/>
+		<Command ID="39523" Function="AcamMultidrill:ReMultidrill"/>
+		<Command ID="39672" Function="AeditToolbar:Aedit"/>
+		<Command ID="39675" Function="AeditToolbar:AeditHelp"/>
+		<Command ID="39674" Function="AeditToolbar:AeditHelpAPI"/>
+		<Command ID="39673" Function="AeditToolbar:EditPost"/>
+		<Command ID="39510" Function="Allinea:RuotaV2"/>
+		<Command ID="39605" Function="ArchedWindows:Start_Macro"/>
+		<Command ID="39505" Function="AspireExport:ExportToAspireCmd"/>
+		<Command ID="39504" Function="AspireExport:LaunchAspireCmd"/>
+		<Command ID="39647" Function="AssociateGuidePolylines:RunItem1"/>
+		<Command ID="39539" Function="AutoQueries:CmdEditAutoQuery"/>
+		<Command ID="39540" Function="AutoQueries:CmdNewAutoQuery"/>
+		<Command ID="39538" Function="AutoQueries:CmdRunAutoQuery"/>
+		<Command ID="39646" Function="AutoWorkVolume:g_CadDoWV"/>
+		<Command ID="39645" Function="AutoWorkVolume:g_DoWV"/>
+		<Command ID="39607" Function="Auto_StairCON_Processing:Create_Post"/>
+		<Command ID="39606" Function="Auto_StairCON_Processing:Start_Macro"/>
+		<Command ID="39700" Function="AutomationManager:CmdAutomationManager"/>
+		<Command ID="39708" Function="AutomationManager:CmdAutomationManagerHelp"/>
+		<Command ID="39707" Function="AutomationManager:CmdAutomationManagerMigrate"/>
+		<Command ID="39701" Function="AutomationManager:CmdAutomationManagerSupport"/>
+		<Command ID="39516" Function="BXF:CmdReadBXF"/>
+		<Command ID="39686" Function="BatchDrawingConverter:DXF2ARD_Load"/>
+		<Command ID="39511" Function="BlendGeometries:CmdBlendGeometries"/>
+		<Command ID="39567" Function="Bordplader:Start_Construction"/>
+		<Command ID="39570" Function="Bordplader:Start_Create_NC"/>
+		<Command ID="39568" Function="Bordplader:Start_Define_Sink"/>
+		<Command ID="39569" Function="Bordplader:start_Define_HeatZone"/>
+		<Command ID="39602" Function="BoringAlong2DLine:g_Run"/>
+		<Command ID="39603" Function="BoringAlong2DLine:g_RunStyle"/>
+		<Command ID="39541" Function="BreakAtDistance:CmdBreakAtDistance"/>
+		<Command ID="39512" Function="BreakAtElementEndpoints:CmdBreakAtElementEndpoints"/>
+		<Command ID="39537" Function="CADtoCAM:LoadAbout"/>
+		<Command ID="39533" Function="CADtoCAM:LoadC2C"/>
+		<Command ID="39534" Function="CADtoCAM:LoadC2C2"/>
+		<Command ID="39536" Function="CADtoCAM:LoadHelp"/>
+		<Command ID="39535" Function="CADtoCAM:LoadOptions"/>
+		<Command ID="39635" Function="CDM:g_CompactDB"/>
+		<Command ID="39634" Function="CDM:g_ConfigDB"/>
+		<Command ID="39636" Function="CDM:g_SupportUtil"/>
+		<Command ID="39638" Function="CDM:m_About"/>
+		<Command ID="39637" Function="CDM:m_Help"/>
+		<Command ID="39633" Function="CDM:m_OrderToolPaths"/>
+		<Command ID="39631" Function="CDM:m_Processing"/>
+		<Command ID="39632" Function="CDM:m_TestUserStyles"/>
+		<Command ID="39639" Function="CHANGE_TILT_LEADIN_ANGLE:ModificaAngApproccio"/>
+		<Command ID="39517" Function="CSVFileUtil:RunDelimitedFileUtil"/>
+		<Command ID="39513" Function="ChangeCircleSize:RunMe"/>
+		<Command ID="39392" Function="CommonLineRemoval:Main"/>
+		<Command ID="39514" Function="ConvertToCircle:CmdConvertToCircle"/>
+		<Command ID="39507" Function="ConvertToPolyline:CmdConvertToPolyline"/>
+		<Command ID="39508" Function="CreateDefaultMaterial:CmdCreateDefaultMaterial"/>
+		<Command ID="39506" Function="Define3DWorkPlane:Show_frmMain"/>
+		<Command ID="39604" Function="Develop_Polyline:Develop"/>
+		<Command ID="39690" Function="DrawingNotes:LoadNotes"/>
+		<Command ID="39408" Function="DrawingTemplate:g_Open"/>
+		<Command ID="39409" Function="DrawingTemplate:g_Save"/>
+		<Command ID="39677" Function="DuplicateSurfaceFinder:RunDuplicateSurfaceFinder"/>
+		<Command ID="39692" Function="Eckelmann:ShowfrmMain"/>
+		<Command ID="39652" Function="EdgeGluing:Apply_Parameters"/>
+		<Command ID="39649" Function="EdgeGluing:EdgeBanding_1"/>
+		<Command ID="39650" Function="EdgeGluing:EdgeBanding_2"/>
+		<Command ID="39651" Function="EdgeGluing:EdgeBanding_3"/>
+		<Command ID="39669" Function="EditToolFiles:Main"/>
+		<Command ID="39640" Function="EurekaAddInAPS:EurekaAddInAPS"/>
+		<Command ID="39644" Function="EurekaAddInAPS:EurekaAddInManual"/>
+		<Command ID="39643" Function="EurekaAddInAPS:EurekaAddInRemoveJig"/>
+		<Command ID="39642" Function="EurekaAddInAPS:EurekaAddInSetJig"/>
+		<Command ID="39641" Function="EurekaAddInAPS:EurekaAddInXmlProfile"/>
+		<Command ID="39676" Function="ExplodeOps:ExplodeVisibleOperations"/>
+		<Command ID="39531" Function="ExtraSTLUtils:g_EnclosingRectangle"/>
+		<Command ID="39529" Function="ExtraSTLUtils:g_ExtractEdges"/>
+		<Command ID="39530" Function="ExtraSTLUtils:g_ProjectEdges"/>
+		<Command ID="39588" Function="FastVolume:FastVolume"/>
+		<Command ID="39591" Function="FastVolume:PianoDx"/>
+		<Command ID="39590" Function="FastVolume:PianoFront"/>
+		<Command ID="39592" Function="FastVolume:PianoPost"/>
+		<Command ID="39589" Function="FastVolume:PianoSup"/>
+		<Command ID="39593" Function="FastVolume:PianoSx"/>
+		<Command ID="38304" Function="Feature:SetZLevelsCallback"/>
+		<Command ID="39678" Function="Foratura_Area:Fori_Area"/>
+		<Command ID="39630" Function="GeoZFromParallelPlanes:CmdGeoZFromParallelPlanes"/>
+		<Command ID="39518" Function="GetToolGeometry:CmdGetToolGeometry"/>
+		<Command ID="39608" Function="ImportTrueTypeFont:RunAllTrueTypeFonts"/>
+		<Command ID="39509" Function="ImportUserLayers:CmdImportUserLayers"/>
+		<Command ID="39616" Function="InitAcam:Config"/>
+		<Command ID="39615" Function="InitAcam:Wizard"/>
+		<Command ID="39679" Function="InventorExport:InventorExportE"/>
+		<Command ID="39670" Function="Jeldwen_Fitting_Information:Run"/>
+		<Command ID="39515" Function="KeepSelected:CmdKeepSelected"/>
+		<Command ID="39629" Function="Lamello:Start_Main"/>
+		<Command ID="39440" Function="LineProperties:LineStyleMain2"/>
+		<Command ID="39609" Function="ListAttributes:ShowForm"/>
+		<Command ID="39555" Function="ListAttributes:showForm"/>
+		<Command ID="39680" Function="LoadVbaAddIn:LoadAddin"/>
+		<Command ID="39656" Function="MenuBalestrini:CartellaSelezionata"/>
+		<Command ID="39665" Function="MenuBalestrini:Configura"/>
+		<Command ID="39667" Function="MenuBalestrini:ConfiguraOutputStl"/>
+		<Command ID="39655" Function="MenuBalestrini:Info"/>
+		<Command ID="39659" Function="MenuBalestrini:MacroForo"/>
+		<Command ID="39660" Function="MenuBalestrini:MacroForoInt"/>
+		<Command ID="39661" Function="MenuBalestrini:MacroMortasa"/>
+		<Command ID="39662" Function="MenuBalestrini:MacroMortasaInt"/>
+		<Command ID="39663" Function="MenuBalestrini:MacroSpina"/>
+		<Command ID="39664" Function="MenuBalestrini:MacroTenone"/>
+		<Command ID="39658" Function="MenuBalestrini:ModificaAngApproccio"/>
+		<Command ID="39657" Function="MenuBalestrini:RunAllTools"/>
+		<Command ID="39666" Function="MenuBalestrini:SalvaStl"/>
+		<Command ID="39654" Function="ModuleWorks:CmdMultiAxisRough"/>
+		<Command ID="39613" Function="ModuleWorks:CmdSurface"/>
+		<Command ID="39668" Function="ModuleWorks:CmdSwarf"/>
+		<Command ID="39614" Function="ModuleWorks:CmdUnimpl"/>
+		<Command ID="39653" Function="ModuleWorks:CmdWireframe"/>
+		<Command ID="39564" Function="MorbidelliOutputNCExportBinary:LoadForm"/>
+		<Command ID="39526" Function="MultiDrill:InitAutoDrill"/>
+		<Command ID="39565" Function="NcHopsPost_Mehrseite:fncSave"/>
+		<Command ID="39682" Function="NcOutputManager:CmdMultipleOutput"/>
+		<Command ID="39683" Function="NcOutputManager:CmdOperationsOutput"/>
+		<Command ID="39681" Function="NcOutputManager:CmdOutput"/>
+		<Command ID="39684" Function="NcOutputManager:CmdOutputConfigurations"/>
+		<Command ID="39693" Function="NestFromTextSample:RunItem1"/>
+		<Command ID="39072" Function="Nesting:Paneqwerty"/>
+		<Command ID="39553" Function="PACAM_5_0:Run_AddPartToLibrary"/>
+		<Command ID="39551" Function="PACAM_5_0:Run_DrawLibraryPart"/>
+		<Command ID="39548" Function="PACAM_5_0:Run_DrawPart"/>
+		<Command ID="39549" Function="PACAM_5_0:Run_OutputOneNest"/>
+		<Command ID="39550" Function="PACAM_5_0:Run_OutputPartFace"/>
+		<Command ID="39554" Function="PACAM_5_0:Run_SaveChangesToLibPart"/>
+		<Command ID="39552" Function="PACAM_5_0:Run_ScanOutline"/>
+		<Command ID="38560" Function="Parametric:Paneqwerty"/>
+		<Command ID="39596" Function="PolyLinesToLayer:CallMovePolyLines"/>
+		<Command ID="39532" Function="Project3Dto2D:CmdProject3Dto2D"/>
+		<Command ID="39542" Function="Reports:CmdReports"/>
+		<Command ID="39545" Function="Reports:CmdReportsEditDataOutputSettingsFile"/>
+		<Command ID="39544" Function="Reports:CmdReportsEditLayoutFile"/>
+		<Command ID="39546" Function="Reports:CmdReportsHelp"/>
+		<Command ID="39543" Function="Reports:CmdReportsOpenDesigner"/>
+		<Command ID="39610" Function="RevSideNesting2_0:hh_RevSide"/>
+		<Command ID="39594" Function="ReverseNest:g_RevSide"/>
+		<Command ID="39694" Function="RotateAndMove:Run"/>
+		<Command ID="39566" Function="RotateAndMoveParts:Start_Function"/>
+		<Command ID="39528" Function="RotatePart:runMain"/>
+		<Command ID="39702" Function="SCMAccordTable:Left_1"/>
+		<Command ID="39703" Function="SCMAccordTable:Left_2"/>
+		<Command ID="39704" Function="SCMAccordTable:Right_1"/>
+		<Command ID="39705" Function="SCMAccordTable:Right_2"/>
+		<Command ID="39706" Function="SCMAccordTable:SetZLevel"/>
+		<Command ID="39557" Function="SKAMOL_MATERIAL:Start_Function"/>
+		<Command ID="39556" Function="SaveAsImportedName:Start_Function"/>
+		<Command ID="39597" Function="SaveSelected:CmdSaveSelected"/>
+		<Command ID="39547" Function="SaveSolidBodies:CmdSaveSolidBodies"/>
+		<Command ID="39527" Function="SawFromFlatTool:runSawForFlatTool"/>
+		<Command ID="39687" Function="Scala_ZLevel:Scale_Z"/>
+		<Command ID="39689" Function="SetWpOrgs:RunMain"/>
+		<Command ID="39599" Function="Set_Clamps:SetClamps"/>
+		<Command ID="39710" Function="Sjølund:RunCCW"/>
+		<Command ID="39709" Function="Sjølund:RunCW"/>
+		<Command ID="39595" Function="Super_Ellipse:RunItem"/>
+		<Command ID="39671" Function="SurfaceEdges:RunItem1"/>
+		<Command ID="39688" Function="SurfaceFinder:CmdSurfaceFind"/>
+		<Command ID="39571" Function="TP_Vectors:TPVectorsE"/>
+		<Command ID="39611" Function="TwinCamHolzherPost:runMakeWWFile"/>
+		<Command ID="39612" Function="TwinCamHolzherPost:runReadTwnTools"/>
+		<Command ID="39695" Function="VBAProject37:Left_1"/>
+		<Command ID="39696" Function="VBAProject37:Left_2"/>
+		<Command ID="39697" Function="VBAProject37:Right_1"/>
+		<Command ID="39698" Function="VBAProject37:Right_2"/>
+		<Command ID="39699" Function="VBAProject37:SetZLevel"/>
+		<Command ID="39573" Function="VacuumCupsOnBeam3:runChangeVacuumCups"/>
+		<Command ID="39585" Function="VacuumCupsOnBeam3:runConfigVacuumCups"/>
+		<Command ID="39583" Function="VacuumCupsOnBeam3:runCupLaserKontur"/>
+		<Command ID="39584" Function="VacuumCupsOnBeam3:runCupMessPunkt"/>
+		<Command ID="39582" Function="VacuumCupsOnBeam3:runCupTyp"/>
+		<Command ID="39580" Function="VacuumCupsOnBeam3:runDelAllVacuumCups"/>
+		<Command ID="39579" Function="VacuumCupsOnBeam3:runDelSimu"/>
+		<Command ID="39575" Function="VacuumCupsOnBeam3:runDelVacuumCups"/>
+		<Command ID="39577" Function="VacuumCupsOnBeam3:runDeleteBemass"/>
+		<Command ID="39586" Function="VacuumCupsOnBeam3:runHelp"/>
+		<Command ID="39576" Function="VacuumCupsOnBeam3:runMakeBemass"/>
+		<Command ID="39572" Function="VacuumCupsOnBeam3:runPlaceVacuumCups"/>
+		<Command ID="39581" Function="VacuumCupsOnBeam3:runSaveCups"/>
+		<Command ID="39578" Function="VacuumCupsOnBeam3:runToSimu"/>
+		<Command ID="39574" Function="VacuumCupsOnBeam3:runTurnVacuumCups"/>
+		<Command ID="39521" Function="Waves:LinesArcsToZWaves"/>
+		<Command ID="39519" Function="Waves:WavesXY"/>
+		<Command ID="39520" Function="Waves:WavesZ"/>
+		<Command ID="39601" Function="WoodWop4xV20_normal:runInsertComp"/>
+		<Command ID="39600" Function="WoodWop4xV20_normal:runMakeWWFile"/>
+		<Command ID="39559" Function="WoodWopPostV3_Essential:runInsertComp"/>
+		<Command ID="39558" Function="WoodWopPostV3_Essential:runMakeWWFile"/>
+		<Command ID="39562" Function="WoodWopPostV3_Essential:runNestDel"/>
+		<Command ID="39560" Function="WoodWopPostV3_Essential:runNestKontur"/>
+		<Command ID="39561" Function="WoodWopPostV3_Essential:runNestSich"/>
+		<Command ID="39587" Function="WoodWop_Extra_Utils:Run_Polish_Command"/>
+		<Command ID="39488" Function="WorkPlaneByPolyline:SelectVector"/>
+		<Command ID="39685" Function="WorkPlaneBySurfaceNormal:frmSurfEval_Load"/>
+		<Command ID="39691" Function="ZlevelPreview:RunItem1"/>
+		<Command ID="39598" Function="bitmind:ShowfrmMain"/>
+		<Command ID="39563" Function="developPolyline:develop"/>
+	</AlphacamAddIns>
+	<Actions>
+		<Action Id="50002"/>
+		<Action Id="50004"/>
+		<Action Id="50006"/>
+		<Action Id="50032"/>
+	</Actions>
+	<CommandBars>
+		<CommandBar Class="CXTPRibbonBar" Customizable="1" Type="3" BarID="1" Title="The Ribbon" MRUWidth="32767" EnableAnimation="1" Closeable="0">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="50028" Flags="1" HideFlags="1"/>
+				<Control Class="CXTPControlButton" Id="50027" Flags="1"/>
+				<Control Class="CXTPControlButton" Id="57666" Flags="1" Caption="Help Index" TooltipText="Help Index" DescriptionText="List Help topics" IconSize="16, 16"/>
+			</Controls>
+			<SystemButton Type="2" Id="0" IconId="504" Flags="24" Caption="Fil" Style="1" CommandBarId="16777216"/>
+			<Tabs>
+				<Tab Caption="Hjem" Selected="1">
+					<Groups>
+						<Group Id="-1" IconId="-1" Caption="Fil">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33132" Caption="&amp;Gem" TooltipText="Gem" DescriptionText="Gem nuv. tegning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33133" Caption="Gem &amp;som..." TooltipText="Gem som" DescriptionText="Gem nuv. tegning med nyt navn" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33784" Caption="Gem Emne og Maskine..." TooltipText="Gem Emne og Maskine" DescriptionText="Gem Emne og Maskine" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33134" Caption="&amp;Importer Alpha tegning..." TooltipText="Importer Alpha tegning" DescriptionText="Indsætter en AlphaCAM tegning i nuv. tegning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="57607" Caption="&amp;Udskriv..." TooltipText="Udskriv" DescriptionText="Udskriv til Printer el. Plotter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="57609" Caption="Vis &amp;Udskrift..." TooltipText="Vis Udskrift" DescriptionText="Vis Udskrift" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39597" Caption="Gem Blok..." TooltipText="Gem Blok" DescriptionText="Gem Blok" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Images">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33787" Caption="Input Ima&amp;ge..." TooltipText="Input Image" DescriptionText="Input Bitmap og tildel denne til geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="40046" Caption="Raster til &amp;Vektor..." TooltipText="Raster til Vektor" DescriptionText="Raster til Vektor" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="CAD">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33016" Caption="Im&amp;porter CAD..." TooltipText="Importer CAD" DescriptionText="Indsæt f.eks. DXF el. IGES fil" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="NC">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32862" Caption="L&amp;ist NC kode" TooltipText="List NC kode" DescriptionText="List NC kode til skærm" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Rapporter">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39542" Caption="Opret Rapporter..." TooltipText="Opret Rapporter" DescriptionText="Opret Rapporter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39545" Caption="Rediger Rapport Data Indstillinger..." TooltipText="Rediger Rapport Data Indstillinger" DescriptionText="Rediger Rapport Data Indstillinger" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39546" Caption="Hjælp" TooltipText="Hjælp" DescriptionText="Hjælp" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Utils">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32863" Caption="Rens &amp;Hukommelse..." TooltipText="Rens Hukommelse" DescriptionText="Clear alt el. del af tegning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32931" Caption="&amp;Hent font for redigering..." TooltipText="Hent font for redigering" DescriptionText="Hent font for redigering" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32930" Caption="Definér &amp;Ny Font" TooltipText="Definér Ny Font" DescriptionText="Definér Ny Font" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32932" Caption="&amp;Gem Nuværende Font..." TooltipText="Gem Nuværende Font" DescriptionText="Gem Nuværende Font" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Templates">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37970" Caption="Gem Som Template..." TooltipText="Gem Som Template" DescriptionText="Gem Som Template" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37969" Caption="Åbn Template..." TooltipText="Åbn Template" DescriptionText="Åbn Template" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Indstillinger">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="2" Caption="Kon&amp;figurér " TooltipText=" " DescriptionText=" " Style="3" CommandBarId="16777217"/>
+								<Control Class="CXTPControlButton" Id="33377" Caption="&amp;Bonus Prg...." TooltipText="Bonus Prg." DescriptionText="Bonus Prg." Style="3"/>
+								<Control Class="CXTPControlPopup" Type="2" Caption="&amp;Faner i Projekt Manager" TooltipText=" " DescriptionText=" " CommandBarId="16777218"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="32859" Caption="&amp;Skærm Indstillinger" TooltipText="&amp;Skærm Indstillinger" DescriptionText=" " Style="2" CommandBarId="16777219"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50001" Caption="&amp;Nyt Vindue" TooltipText="&amp;Nyt Vindue" DescriptionText=" " Style="2" CommandBarId="16777220"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="1"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="2" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Konstruktion">
+					<Groups>
+						<Group Id="-1" IconId="-1" Caption="Linie/Rekt.">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32823" HideFlags="128" Caption="K&amp;onstruktion" TooltipText="Konstruktion" DescriptionText="Konstruktion" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32784" HideFlags="128" Caption="&amp;Linie" TooltipText="Linie" DescriptionText="Linie" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33124" HideFlags="128" Caption="Omsluttet rektangel" TooltipText="Omsluttet rektangel" DescriptionText="Omsluttet rektangel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32897" HideFlags="128" Caption="&amp;Rektangel" TooltipText="Rektangel" DescriptionText="Rektangel" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Cirkel">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32826" HideFlags="128" Caption="Center + &amp;Dia" TooltipText="Center + Dia" DescriptionText="Center + Dia" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32827" HideFlags="128" Caption="Center + &amp;Rad" TooltipText="Center + Rad" DescriptionText="Center + Rad" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32828" HideFlags="128" Caption="Center + &amp;Punkt" TooltipText="Center + Punkt" DescriptionText="Center + Punkt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32829" HideFlags="128" Caption="&amp;2 punkts" TooltipText="2 punkts" DescriptionText="2 punkts" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32830" HideFlags="128" Caption="&amp;3 punkts" TooltipText="3 punkts" DescriptionText="3 punkts" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32831" HideFlags="128" Caption="&amp;Tangent..." TooltipText="Tangent" DescriptionText="Tangent" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32832" HideFlags="128" Caption="T&amp;angent..." TooltipText="Tangent" DescriptionText="Tangent" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Bue">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32786" HideFlags="128" Caption="&amp;3 Punkter" TooltipText="3 Punkter" DescriptionText="3 Punkter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32791" HideFlags="128" Caption="2 Punkter + &amp;Center" TooltipText="2 Punkter + Center" DescriptionText="2 Punkter + Center" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32787" HideFlags="128" Caption="2 Punkter + &amp;Radius" TooltipText="2 Punkter + Radius" DescriptionText="2 Punkter + Radius" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32790" HideFlags="128" Caption="Start + Center + &amp;Vinkel" TooltipText="Start + Center + Vinkel" DescriptionText="Start + Center + Vinkel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32789" HideFlags="128" Caption="&amp;Tangent + Punkt" TooltipText="Tangent + Punkt" DescriptionText="Tangent + Punkt" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Spec. Geo">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33007" HideFlags="128" Caption="&amp;Aflang hul..." TooltipText="Aflang hul" DescriptionText="Aflang hul" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32904" HideFlags="128" Caption="&amp;Bolthul cirkel..." TooltipText="Bolthul cirkel" DescriptionText="Bolthul cirkel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33075" HideFlags="128" Caption="Huller Langs Geometri..." TooltipText="Huller Langs Geometri" DescriptionText="Tegner huller med ens afstand langs kurve" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33074" HideFlags="128" Caption="&amp;Digitize..." TooltipText="Digitize" DescriptionText="Digitize" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32910" HideFlags="128" Caption="&amp;Polygon..." TooltipText="Polygon" DescriptionText="Polygon" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33006" HideFlags="128" Caption="&amp;Spiralkurve..." TooltipText="Spiralkurve" DescriptionText="Spiralkurve" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32909" HideFlags="128" Caption="&amp;Ellipse..." TooltipText="Ellipse" DescriptionText="Ellipse" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Tekst">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32924" HideFlags="128" Caption="&amp;Tekst..." TooltipText="Tekst" DescriptionText="Tekst" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33499" HideFlags="128" Caption="&amp;Redigér Tekst" TooltipText="Redigér Tekst" DescriptionText="Redigér Tekst" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Bølger">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39519" HideFlags="128" Caption="Bølger i XY" TooltipText="Bølger i XY" DescriptionText="Bølger i XY" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39520" HideFlags="128" Caption="Bølger i Z" TooltipText="Bølger i Z" DescriptionText="Bølger i Z" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39521" HideFlags="128" Caption="Konverter Linier/Buer til Z_Bølger" TooltipText="Konverter Linier/Buer til Z_Bølger" DescriptionText="Konverter Linier/Buer til Z_Bølger" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Splines">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33001" HideFlags="128" Caption="&amp;Lav Spline..." TooltipText="Lav Spline" DescriptionText="Lav Spline" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33004" HideFlags="128" Caption="O&amp;mvend Spline" TooltipText="Omvend Spline" DescriptionText="Omvend Spline" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33002" HideFlags="128" Caption="&amp;Redigér Spline" TooltipText="Redigér Spline" DescriptionText="Redigér Spline" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33005" HideFlags="128" Caption="Kon&amp;vert. Spline til Linier/Buer..." TooltipText="Konvert. Spline til Linier/Buer" DescriptionText="Konvert. Spline til Linier/Buer" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Geo Vkt.">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37891" HideFlags="128" Caption="&amp;Beskære" TooltipText="Beskære" DescriptionText="Beskære" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37895" HideFlags="128" Caption="&amp;Find Krydsende Områder" TooltipText="Find Krydsende Områder" DescriptionText="Find Krydsende Områder" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37894" HideFlags="128" Caption="&amp;Find Overlappende Områder" TooltipText="Find Overlappende Områder" DescriptionText="Find Overlappende Områder" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37892" HideFlags="128" Caption="&amp;Forene Kontur" TooltipText="Forene Kontur" DescriptionText="Forene Kontur" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37893" HideFlags="128" Caption="&amp;Fratræk" TooltipText="Fratræk" DescriptionText="Fratræk" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37897" HideFlags="128" Caption="&amp;Inddel i Plader..." TooltipText="Inddel i Plader" DescriptionText="Inddel i Plader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37896" HideFlags="128" Caption="Kopi af Samfaldende Område" TooltipText="Kopi af Samfaldende Område" DescriptionText="Kopi af Samfaldende Område" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37889" HideFlags="128" Caption="&amp;Opdel" TooltipText="Opdel" DescriptionText="Opdel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37890" HideFlags="128" Caption="&amp;Slet Område" TooltipText="Slet Område" DescriptionText="Slet Område" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="3D">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33022" HideFlags="128" Caption="&amp;3D Overflade..." TooltipText="3D Overflade" DescriptionText="3D Overflade" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33021" HideFlags="128" Caption="3D &amp;Polylinie" TooltipText="3D Polylinie" DescriptionText="3D Polylinie" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33024" HideFlags="128" Caption="Redigér 3D Pol&amp;ylinie" TooltipText="Redigér 3D Polylinie" DescriptionText="Redigér 3D Polylinie" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="3D Vkt.">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32925" HideFlags="128" Caption="Definér 3D &amp;Volume" TooltipText="Definér 3D Volume" DescriptionText="Definér 3D Volume" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32928" HideFlags="128" Caption="Definér &amp;Materiale Størrelse" TooltipText="Definér Materiale Størrelse" DescriptionText="Definér Materiale Størrelse" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39508" HideFlags="128" Caption="Kalkuler Materiale..." TooltipText="Kalkuler Materiale" DescriptionText="Kalkuler Materiale" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33529" HideFlags="128" Caption="Definer Z_Højder for geometri" TooltipText="Definer Z_Højder for geometri" DescriptionText="Definer Z_Højder for geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33712" HideFlags="128" Caption="Redigér Geometri Z Punkt for Punkt" TooltipText="Redigér Geometri Z Punkt for Punkt" DescriptionText="Redigér Geometri Z Punkt for Punkt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33025" HideFlags="128" Caption="3D &amp;Projektion..." TooltipText="3D Projektion" DescriptionText="3D Projektion" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33107" HideFlags="128" Caption="Overfør/Fold til Overflade/Solid..." TooltipText="Overfør/Fold til Overflade/Solid" DescriptionText="Overfør 2D Geometrier / Værktøjsbaner til Overflade eller Solid." Style="2"/>
+								<Control Class="CXTPControlButton" Id="39532" HideFlags="128" Caption="Projicer &amp;3D til 2D" TooltipText="Projicer 3D til 2D" DescriptionText="Projicer 3D til 2D" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33108" HideFlags="128" Caption="Overfør/Fold omkring Geometri..." TooltipText="Overfør/Fold omkring Geometri" DescriptionText="Overfør/Fold omkring Geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33138" HideFlags="128" Caption="Lav &amp;sektioner fra Overflade..." TooltipText="Lav sektioner fra Overflade" DescriptionText="Lav sektioner fra Overflade" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33023" HideFlags="128" Caption="Omvend &amp;bearbejdningsside" TooltipText="Omvend bearbejdningsside" DescriptionText="Omvend bearbejdningsside" Style="2"/>
+								<Control Class="CXTPControlPopup" Type="2" HideFlags="128" Caption="&amp;Redigér 3D Overflade" TooltipText=" " DescriptionText=" " Style="2" CommandBarId="16777223"/>
+								<Control Class="CXTPControlButton" Id="33032" HideFlags="128" Caption="&amp;Udfoldning..." TooltipText="Udfoldning" DescriptionText="Udfoldning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39528" HideFlags="128" Caption="3D Emnerotation" TooltipText="3D Emnerotation" DescriptionText="3D Emnerotation" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="STL">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37378" HideFlags="128" Caption="Konverter STL Facetter til 3D Polylinier" TooltipText="Konverter STL Facetter til 3D Polylinier" DescriptionText="Konverter STL Facetter til 3D Polylinier" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37380" HideFlags="128" Caption="Konverterer til STL Facetter" TooltipText="Konverterer til STL Facetter" DescriptionText="Konverterer til STL Facetter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37382" HideFlags="128" Caption="Omvend Farve på Flader" TooltipText="Omvend Farve på Flader" DescriptionText="Omvend Farve på Flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37381" HideFlags="128" Caption="Opdel STL i sektioner" TooltipText="Opdel STL i sektioner" DescriptionText="Opdel STL i sektioner" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37379" HideFlags="128" Caption="Slet STL Facetter" TooltipText="Slet STL Facetter" DescriptionText="Slet STL Facetter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39531" HideFlags="128" Caption="Opret Omsluttet Rektangel" TooltipText="Opret Omsluttet Rektangel" DescriptionText="Opret Omsluttet Rektangel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39530" HideFlags="128" Caption="Projicer Kanter til Aktiv Plan" TooltipText="Projicer Kanter til Aktiv Plan" DescriptionText="Projicer Kanter til Aktiv Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39529" HideFlags="128" Caption="Udtræk 3D Kanter" TooltipText="Udtræk 3D Kanter" DescriptionText="Udtræk 3D Kanter" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Rediger">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32783" HideFlags="128" Caption="&amp;Slet" TooltipText="Slet" DescriptionText="Slet" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32836" HideFlags="128" Caption="F&amp;lyt" TooltipText="Flyt" DescriptionText="Flyt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="57634" HideFlags="128" Caption="&amp;Kopi" TooltipText="Kopi" DescriptionText="Kopi" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32839" HideFlags="128" Caption="&amp;Rotér" TooltipText="Rotér" DescriptionText="Rotér" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39510" HideFlags="128" Caption="Avanceret Rotation..." TooltipText="Avanceret Rotation" DescriptionText="Avanceret Rotation" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32841" HideFlags="128" Caption="Sp&amp;ejl" TooltipText="Spejl" DescriptionText="Spejl" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32842" HideFlags="128" Caption="&amp;Skalér" TooltipText="Skalér" DescriptionText="Skalér" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32846" HideFlags="128" Caption="&amp;Afrunde..." TooltipText="Afrunde" DescriptionText="Afrunde" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32847" HideFlags="128" Caption="A&amp;ffase..." TooltipText="Affase" DescriptionText="Affase" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32848" HideFlags="128" Caption="&amp;Offset..." TooltipText="Offset" DescriptionText="Offset" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33122" HideFlags="128" Caption="&amp;Trim" TooltipText="Trim" DescriptionText="Trim" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32843" HideFlags="128" Caption="&amp;Bryde..." TooltipText="Bryde" DescriptionText="Bryde" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32844" HideFlags="128" Caption="S&amp;amle" TooltipText="Samle" DescriptionText="Samle" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32845" HideFlags="128" Caption="Forlænge" TooltipText="Forlænge" DescriptionText="Forlænge" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39985" HideFlags="128" Caption="Forlæng Linier..." TooltipText="Forlæng Linier" DescriptionText="Forlæng Linier" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39541" HideFlags="128" Caption="Opdel Geometri..." TooltipText="Opdel Geometri" DescriptionText="Opdel Geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="57640" HideFlags="128" Caption="&amp;Lineær Kopi" TooltipText="Lineær Kopi" DescriptionText="Lineær Kopi" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32840" HideFlags="128" Caption="&amp;Multi Kopi" TooltipText="Multi Kopi" DescriptionText="Multi Kopi" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33460" HideFlags="128" Caption="S&amp;træk" TooltipText="Stræk" DescriptionText="Stræk" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33140" HideFlags="128" Caption="E&amp;ksplodér" TooltipText="Eksplodér" DescriptionText="Eksplodér" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32835" HideFlags="128" Caption="&amp;Rækkefølge..." TooltipText="Rækkefølge" DescriptionText="Rækkefølge" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32849" HideFlags="128" Caption="Æ&amp;ndre..." TooltipText="Ændre" DescriptionText="Ændre" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32833" HideFlags="128" Caption="Start &amp;Punkt" TooltipText="Start Punkt" DescriptionText="Start Punkt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39514" HideFlags="128" Caption="Konverter til Cirkel..." TooltipText="Konverter til Cirkel" DescriptionText="Konverter til Cirkel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32868" HideFlags="128" Caption="&amp;Redigér/List Geometri..." TooltipText="Redigér/List Geometri" DescriptionText="Redigér/List Geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39511" HideFlags="128" Caption="&amp;Forbind Geometrier..." TooltipText="Forbind Geometrier" DescriptionText="Forbind Geometrier" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33508" HideFlags="128" Caption="Auto" TooltipText="Auto" DescriptionText="Auto" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33510" HideFlags="128" Caption="3D" TooltipText="3D" DescriptionText="3D" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32949" HideFlags="128" Caption="Punkter til Linier/Buer..." TooltipText="Punkter til Linier/Buer" DescriptionText="Punkter til Linier/Buer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39513" HideFlags="128" Caption="Ændre Cirkel Størrelse" TooltipText="Ændre Cirkel Størrelse" DescriptionText="Ændre Cirkel Størrelse" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33835" HideFlags="128" Caption="2D Transformation " TooltipText="2D Transformation " DescriptionText="2D Transformation " Style="2"/>
+								<Control Class="CXTPControlButton" Id="39392" HideFlags="128" Caption="Slet Dobbelt Linier" TooltipText="Slet Dobbelt Linier" DescriptionText="Slet Dobbelt Linier" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="CAD">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32777" HideFlags="128" Caption="&amp;Målsætning..." TooltipText="Målsætning" DescriptionText="Målsætning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32869" HideFlags="128" Caption="Fl&amp;yt Målsætning" TooltipText="Flyt Målsætning" DescriptionText="Flyt Målsætning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32899" HideFlags="128" Caption="&amp;Forstørrelse" TooltipText="Forstørrelse" DescriptionText="Forstørrelse" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32898" HideFlags="128" Caption="&amp;Skravering..." TooltipText="Skravering" DescriptionText="Skravering" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32880" HideFlags="128" Caption="&amp;Distance/Vinkel" TooltipText="Distance/Vinkel" DescriptionText="Distance/Vinkel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32884" HideFlags="128" Caption="&amp;Radius af" TooltipText="Radius af" DescriptionText="Radius af" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32881" HideFlags="128" Caption="&amp;Vis Koordinater" TooltipText="Vis Koordinater" DescriptionText="Vis Koordinater" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32949" HideFlags="128" Caption="Punkter til Linier/Buer..." TooltipText="Punkter til Linier/Buer" DescriptionText="Punkter til Linier/Buer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33032" HideFlags="128" Caption="&amp;Udfoldning..." TooltipText="Udfoldning" DescriptionText="Udfoldning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32948" HideFlags="128" Caption="&amp;Auto_Luk Konturer..." TooltipText="Auto_Luk Konturer" DescriptionText="Auto_Luk Konturer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39392" HideFlags="128" Caption="Slet Dobbelt Linier" TooltipText="Slet Dobbelt Linier" DescriptionText="Slet Dobbelt Linier" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39440" HideFlags="128" Caption="Ændre Egenskaber" TooltipText="Ændre Egenskaber" DescriptionText="Ændre Egenskaber" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32944" HideFlags="128" Caption="&amp;Nestet Plade" TooltipText="Nestet Plade" DescriptionText="Nestet Plade" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32943" HideFlags="128" Caption="&amp;Individuel" TooltipText="Individuel" DescriptionText="Individuel" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Vis">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32888" HideFlags="128" Caption="&amp;3D Views" TooltipText="3D Views" DescriptionText="3D Views" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32778" HideFlags="128" Caption="V&amp;is Værktøjsretninger" TooltipText="Vis Værktøjsretninger" DescriptionText="Vis Værktøjsretninger" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33794" HideFlags="128" Caption="Vis Geometri Ilgange" TooltipText="Vis Geometri Ilgange" DescriptionText="Vis Geometri Ilgange" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33812" HideFlags="128" Caption="Vis Modificeret Fremføring" TooltipText="Vis Modificeret Fremføring" DescriptionText="Vis Modificeret Fremføring" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33795" HideFlags="128" Caption="Vis Værktøjs &amp;Ilgange" TooltipText="Vis Værktøjs Ilgange" DescriptionText="Vis Værktøjs Ilgange" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33467" HideFlags="128" Caption="Vis værktøjs vinkler" TooltipText="Vis værktøjs vinkler" DescriptionText="Vis værktøjs vinkler sat med redigér værktøjs vinkel kommando" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Plan">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32934" HideFlags="128" Caption="&amp;Snit gennem 3D Volume" TooltipText="Snit gennem 3D Volume" DescriptionText="Snit gennem 3D Volume" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32935" HideFlags="128" Caption="&amp;2 Linier for X og Y-akser" TooltipText="2 Linier for X og Y-akser" DescriptionText="2 Linier for X og Y-akser" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32936" HideFlags="128" Caption="&amp;Eksisterende geometri" TooltipText="Eksisterende geometri" DescriptionText="Eksisterende geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32937" HideFlags="128" Caption="&amp;Parallel til nuværende plan" TooltipText="Parallel til nuværende plan" DescriptionText="Plan: Parallel med nuv. plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33169" HideFlags="128" Caption="Som nuv. Plan, med andet &amp;Nulpunkt" TooltipText="Som nuv. Plan, med andet Nulpunkt" DescriptionText="Plan:" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33596" HideFlags="128" Caption="Tilpasset - &quot;Best Fit&quot; - gennem Punkter" TooltipText="Tilpasset - &quot;Best Fit&quot; - gennem Punkter" DescriptionText="Tilpasset - &quot;Best Fit&quot; - gennem Punkter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33139" HideFlags="128" Caption="&amp;Vend nuværende plan" TooltipText="Vend nuværende plan" DescriptionText="Plan: Vend lokal Z af nuv. plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32938" HideFlags="128" Caption="Vinkelret til Aktiv Plan" TooltipText="Vinkelret til Aktiv Plan" DescriptionText="Plan: Vinkelret til Aktivt Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33601" HideFlags="128" Caption="Vinkelret til &amp;View" TooltipText="Vinkelret til View" DescriptionText="Plan: Vinkelret til View" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33482" HideFlags="128" Caption="Gør lokal akse &amp;Horizontal..." TooltipText="Gør lokal akse Horizontal" DescriptionText="Gør lokal akse Horizontal" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32927" HideFlags="128" Caption="Sæt &amp;Nulp. Plan" TooltipText="Sæt Nulp. Plan" DescriptionText="Sæt Nulp. Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33810" HideFlags="128" Caption="Arranger Pla&amp;ner..." TooltipText="Arranger Planer" DescriptionText="Arranger Planer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33170" HideFlags="128" Caption="Efter &amp;Navn..." TooltipText="Efter Navn" DescriptionText="Plan: Efter brugerdef. navn" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33171" HideFlags="128" Caption="&amp;Egenskaber for Plan..." TooltipText="Egenskaber for Plan" DescriptionText="Egenskaber for Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32929" HideFlags="128" Caption="&amp;Déaktiver Plan" TooltipText="Déaktiver Plan" DescriptionText="Déaktiver Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36892" HideFlags="128" Caption="Plan på Model&amp;Flade" TooltipText="Plan på ModelFlade" DescriptionText="Plan på ModelFlade" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39488" HideFlags="128" Caption="Efter Vektor af Linie" TooltipText="Efter Vektor af Linie" DescriptionText="Efter Vektor af Linie" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Retning">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33695" HideFlags="128" Caption="Sæt Åbne Elementer" TooltipText="Sæt Åbne Elementer" DescriptionText="Sæt Åbne Elementer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32776" HideFlags="128" Caption="Værktøjs&amp;retninger..." TooltipText="Værktøjsretninger" DescriptionText="Sæt bearbejdningsside og retning" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Parametrisk Sketch">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33833" HideFlags="128" Caption="Parametrisk Sketcher" TooltipText="Parametrisk Sketcher" DescriptionText="Opret Parametriske Tegninger" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33836" HideFlags="128" Caption="Kør Parametrisk Sketch &amp; Hent og Kør en eksisterende Parametrisk Sketch" TooltipText="Kør Parametrisk Sketch  Hent og Kør en eksisterende Parametrisk Sketch" DescriptionText="Kør Parametrisk Sketch  Hent og Kør en eksisterende Parametrisk Sketch" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Parametrisk Sketch"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Parametri">
+					<Groups>
+						<Group Id="-1" IconId="-1" Caption="Enkelt Geometri">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37121" HideFlags="128" Caption="&amp;Fix Punkt" TooltipText="Fix Punkt" DescriptionText="Fix Punkt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37122" HideFlags="128" Caption="&amp;Horisontal" TooltipText="Horisontal" DescriptionText="Horisontal" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37123" HideFlags="128" Caption="&amp;Vertikal" TooltipText="Vertikal" DescriptionText="Vertikal" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37124" HideFlags="128" Caption="&amp;Længde" TooltipText="Længde" DescriptionText="Længde" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37125" HideFlags="128" Caption="&amp;Radius" TooltipText="Radius" DescriptionText="Radius" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Enkelt Geometri"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="To Geometrier">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37126" HideFlags="128" Caption="&amp;Sammenfaldende" TooltipText="Sammenfaldende" DescriptionText="Sammenfaldende" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37130" HideFlags="128" Caption="Vink&amp;el" TooltipText="Vinkel" DescriptionText="Vinkel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37128" HideFlags="128" Caption="&amp;Tangentiel" TooltipText="Tangentiel" DescriptionText="Tangentiel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37129" HideFlags="128" Caption="&amp;Distance" TooltipText="Distance" DescriptionText="Distance" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="To Geometrier"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Gruppe Funktioner">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37132" HideFlags="128" Caption="Ens L&amp;ængde" TooltipText="Ens Længde" DescriptionText="Ens Længde" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37131" HideFlags="128" Caption="Ens R&amp;adius" TooltipText="Ens Radius" DescriptionText="Ens Radius" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37134" HideFlags="128" Caption="&amp;Koncentrisk " TooltipText="Koncentrisk " DescriptionText="Koncentrisk " Style="2"/>
+								<Control Class="CXTPControlButton" Id="37133" HideFlags="128" Caption="Para&amp;llel" TooltipText="Parallel" DescriptionText="Parallel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37135" HideFlags="128" Caption="&amp;Midt Punkt" TooltipText="Midt Punkt" DescriptionText="Midt Punkt" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Gruppe Funktioner"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Specielle Funktioner">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37136" HideFlags="128" Caption="&amp;Opret Gruppe" TooltipText="Opret Gruppe" DescriptionText="Opret Gruppe" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37137" HideFlags="128" Caption="Træ&amp;k" TooltipText="Træk" DescriptionText="Træk" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37138" HideFlags="128" Caption="Variabel Z_Højde for Geometri" TooltipText="Variabel Z_Højde for Geometri" DescriptionText="Variabel Z_Højde for Geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37139" HideFlags="128" Caption="&amp;Vis Relationer" TooltipText="Vis Relationer" DescriptionText="Vis Relationer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37140" HideFlags="128" Caption="P&amp;osition for Planer" TooltipText="Position for Planer" DescriptionText="Position for Planer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37156" HideFlags="128" Caption="Opdater Værktøjsbaner Automatisk" TooltipText="Opdater Værktøjsbaner Automatisk" DescriptionText="Opdater Værktøjsbaner Automatisk" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Specielle Funktioner"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Slet Alle">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37141" HideFlags="128" Caption="&amp;Relationer" TooltipText="Relationer" DescriptionText="Relationer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37142" HideFlags="128" Caption="Relationer og &amp;Variabler" TooltipText="Relationer og Variabler" DescriptionText="Relationer og Variabler" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Slet Alle"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Auto Relationer">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37143" HideFlags="128" Caption="Alle..." TooltipText="Alle" DescriptionText="Alle" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37144" HideFlags="128" Caption="Akt&amp;uel Plan..." TooltipText="Aktuel Plan" DescriptionText="Aktuel Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37145" HideFlags="128" Caption="Valgte..." TooltipText="Valgte" DescriptionText="Valgte" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Auto Relationer"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Variabel og Formel Kontrol">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37146" HideFlags="128" Caption="Rediger Variabler" TooltipText="Rediger Variabler" DescriptionText="Rediger Variabler" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37147" HideFlags="128" Caption="&amp;Ny Variabel..." TooltipText="Ny Variabel" DescriptionText="Ny Variabel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37148" HideFlags="128" Caption="Ny Formel" TooltipText="Ny Formel" DescriptionText="Ny Formel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37149" HideFlags="128" Caption="Vis alle Parametre" TooltipText="Vis alle Parametre" DescriptionText="Vis alle Parametre" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37150" HideFlags="128" Caption="Vis alle Formler" TooltipText="Vis alle Formler" DescriptionText="Vis alle Formler" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37151" HideFlags="128" Caption="Importér Variabler" TooltipText="Importér Variabler" DescriptionText="Importér Variabler" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37152" HideFlags="128" Caption="&amp;Importer Parametrisk Tegning..." TooltipText="Importer Parametrisk Tegning" DescriptionText="Importer Parametrisk Tegning" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Variabel og Formel Kontrol"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Solider">
+					<Groups>
+						<Group Id="-1" IconId="-1" Caption="Feature Udtræk">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36865" HideFlags="128" Caption="&amp;Automatisk..." TooltipText="Automatisk" DescriptionText="Automatisk" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36868" HideFlags="128" Caption="&amp;Kontur af valgte Kanter" TooltipText="Kontur af valgte Kanter" DescriptionText="Kontur af valgte Kanter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36869" HideFlags="128" Caption="Kontur omkring valgte flader" TooltipText="Kontur omkring valgte flader" DescriptionText="Kontur omkring valgte flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36873" HideFlags="128" Caption="&amp;Projicer Omrids af Flade til aktiv Plan" TooltipText="Projicer Omrids af Flade til aktiv Plan" DescriptionText="Projicer Omrids af Flade til aktiv Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36866" HideFlags="128" Caption="Huller for &amp;Boring" TooltipText="Huller for Boring" DescriptionText="Huller for Boring" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36880" HideFlags="128" Caption="&amp;Offset Flader" TooltipText="Offset Flader" DescriptionText="Offset Flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36882" HideFlags="128" Caption="Opret Omsluttet 3D Volume" TooltipText="Opret Omsluttet 3D Volume" DescriptionText="Opret Omsluttet 3D Volume" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36870" HideFlags="128" Caption="Kontur gennem Aktivt Plan" TooltipText="Kontur gennem Aktivt Plan" DescriptionText="Kontur gennem Aktivt Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36875" HideFlags="128" Caption="3D &amp;Kant" TooltipText="3D Kant" DescriptionText="3D Kant" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36876" HideFlags="128" Caption="3D Kant som omrids af Flader" TooltipText="3D Kant som omrids af Flader" DescriptionText="3D Kant som omrids af Flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36878" HideFlags="128" Caption="Konturer af Solid" TooltipText="Konturer af Solid" DescriptionText="Konturer af Solid" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36877" HideFlags="128" Caption="Konturer af Forlængede Kanter" TooltipText="Konturer af Forlængede Kanter" DescriptionText="Konturer af Forlængede Kanter" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36879" HideFlags="128" Caption="Konturlinie langs Z" TooltipText="Konturlinie langs Z" DescriptionText="Konturlinie langs Z" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36871" HideFlags="128" Caption="Kant for Savning" TooltipText="Kant for Savning" DescriptionText="Kant for Savning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36872" HideFlags="128" Caption="3D Surfaces fra Model Flader" TooltipText="3D Surfaces fra Model Flader" DescriptionText="3D Surfaces fra Model Flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36892" HideFlags="128" Caption="Plan på Model&amp;Flade" TooltipText="Plan på ModelFlade" DescriptionText="Plan på ModelFlade" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Solid Model Vkt.">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36886" HideFlags="128" Caption="&amp;Auto Indret Part" TooltipText="Auto Indret Part" DescriptionText="Auto Indret Part" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36887" HideFlags="128" Caption="&amp;Ret Part Ind" TooltipText="Ret Part Ind" DescriptionText="Ret Part Ind" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36884" HideFlags="128" Caption="Redefiner &amp;Z_Højder for Geometri " TooltipText="Redefiner Z_Højder for Geometri " DescriptionText="Redefiner Z_Højder for Geometri " Style="2"/>
+								<Control Class="CXTPControlButton" Id="36890" HideFlags="128" Caption="Flade/Kant/Punkt &amp;Detaljer" TooltipText="Flade/Kant/Punkt Detaljer" DescriptionText="Flade/Kant/Punkt Detaljer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36883" HideFlags="128" Caption="&amp;Fjern konturer defineret som Huller" TooltipText="Fjern konturer defineret som Huller" DescriptionText="Fjern konturer defineret som Huller" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36881" HideFlags="128" Caption="Luk &amp;Huller" TooltipText="Luk Huller" DescriptionText="Luk Huller" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36888" HideFlags="128" Caption="Angiv &amp;Farve for Flader" TooltipText="Angiv Farve for Flader" DescriptionText="Angiv Farve for Flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36889" HideFlags="128" Caption="&amp;Farvelæg Flader" TooltipText="Farvelæg Flader" DescriptionText="Farvelæg Flader" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36893" HideFlags="128" Caption="Feature &amp;Udtræk..." TooltipText="Feature Udtræk" DescriptionText="Feature Udtræk" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36891" HideFlags="128" Caption="&amp;Kontroller/Reparér Part" TooltipText="Kontroller/Reparér Part" DescriptionText="Kontroller/Reparér Part" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Zoom">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32771" HideFlags="128" Caption="Zoom &amp;Alt" TooltipText="Zoom Alt" DescriptionText="Zoom Alt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32772" HideFlags="128" Caption="Zoom &amp;Vindue" TooltipText="Zoom Vindue" DescriptionText="Zoom Vindue" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32778" HideFlags="128" Caption="V&amp;is Værktøjsretninger" TooltipText="Vis Værktøjsretninger" DescriptionText="Vis Værktøjsretninger" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Rediger">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32783" HideFlags="128" Caption="&amp;Slet" TooltipText="Slet" DescriptionText="Slet" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32836" HideFlags="128" Caption="F&amp;lyt" TooltipText="Flyt" DescriptionText="Flyt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="57634" HideFlags="128" Caption="&amp;Kopi" TooltipText="Kopi" DescriptionText="Kopi" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32839" HideFlags="128" Caption="&amp;Rotér" TooltipText="Rotér" DescriptionText="Rotér" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32846" HideFlags="128" Caption="&amp;Afrunde..." TooltipText="Afrunde" DescriptionText="Afrunde" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32848" HideFlags="128" Caption="&amp;Offset..." TooltipText="Offset" DescriptionText="Offset" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33122" HideFlags="128" Caption="&amp;Trim" TooltipText="Trim" DescriptionText="Trim" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32845" HideFlags="128" Caption="Forlænge" TooltipText="Forlænge" DescriptionText="Forlænge" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32844" HideFlags="128" Caption="S&amp;amle" TooltipText="Samle" DescriptionText="Samle" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39985" HideFlags="128" Caption="Forlæng Linier..." TooltipText="Forlæng Linier" DescriptionText="Forlæng Linier" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39528" HideFlags="128" Caption="3D Emnerotation" TooltipText="3D Emnerotation" DescriptionText="3D Emnerotation" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33024" HideFlags="128" Caption="Redigér 3D Pol&amp;ylinie" TooltipText="Redigér 3D Polylinie" DescriptionText="Redigér 3D Polylinie" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Rediger"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Plan">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32934" HideFlags="128" Caption="&amp;Snit gennem 3D Volume" TooltipText="Snit gennem 3D Volume" DescriptionText="Snit gennem 3D Volume" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32935" HideFlags="128" Caption="&amp;2 Linier for X og Y-akser" TooltipText="2 Linier for X og Y-akser" DescriptionText="2 Linier for X og Y-akser" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32936" HideFlags="128" Caption="&amp;Eksisterende geometri" TooltipText="Eksisterende geometri" DescriptionText="Eksisterende geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33139" HideFlags="128" Caption="&amp;Vend nuværende plan" TooltipText="Vend nuværende plan" DescriptionText="Plan: Vend lokal Z af nuv. plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32938" HideFlags="128" Caption="Vinkelret til Aktiv Plan" TooltipText="Vinkelret til Aktiv Plan" DescriptionText="Plan: Vinkelret til Aktivt Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32937" HideFlags="128" Caption="&amp;Parallel til nuværende plan" TooltipText="Parallel til nuværende plan" DescriptionText="Plan: Parallel med nuv. plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32927" HideFlags="128" Caption="Sæt &amp;Nulp. Plan" TooltipText="Sæt Nulp. Plan" DescriptionText="Sæt Nulp. Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="36892" HideFlags="128" Caption="Plan på Model&amp;Flade" TooltipText="Plan på ModelFlade" DescriptionText="Plan på ModelFlade" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32929" HideFlags="128" Caption="&amp;Déaktiver Plan" TooltipText="Déaktiver Plan" DescriptionText="Déaktiver Plan" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="128" Caption="Plan"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Bearbejdning">
+					<Groups>
+						<Group Id="-1" IconId="-1" Caption="Diverse">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33695" HideFlags="128" Caption="Sæt Åbne Elementer" TooltipText="Sæt Åbne Elementer" DescriptionText="Sæt Åbne Elementer" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32780" HideFlags="128" Caption="Vælg &amp;Værktøj..." TooltipText="Vælg Værktøj" DescriptionText="Vælg Værktøj" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32776" HideFlags="128" Caption="Værktøjs&amp;retninger..." TooltipText="Værktøjsretninger" DescriptionText="Sæt bearbejdningsside og retning" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="2D">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32878" HideFlags="128" Caption="S&amp;krub-/Sletspån..." TooltipText="Skrub-/Sletspån" DescriptionText="Lav skrub/ el. sletspånsbarb." Style="2"/>
+								<Control Class="CXTPControlButton" Id="32775" HideFlags="128" Caption="Lommef&amp;ræsning..." TooltipText="Lommefræsning" DescriptionText="Lommefræsning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32905" HideFlags="128" Caption="3D Gra&amp;véring..." TooltipText="3D Gravéring" DescriptionText="3D Gravéring" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32889" HideFlags="128" Caption="Bore-/Gevind &amp;Huller..." TooltipText="Bore-/Gevind Huller" DescriptionText="Bore-/Gevind Huller" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33597" HideFlags="128" Caption="Bore-/Gevind Huller, Auto_&amp;Z..." TooltipText="Bore-/Gevind Huller, Auto_Z" DescriptionText="Bore-/Gevind Huller, Auto_Z" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33355" HideFlags="128" Caption="&amp;Lommefræse Huller..." TooltipText="Lommefræse Huller" DescriptionText="Lommefræse Huller" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33709" HideFlags="128" Caption="Lomme Huller Au&amp;to_Z..." TooltipText="Lomme Huller Auto_Z" DescriptionText="Lomme Huller Auto_Z" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33736" HideFlags="128" Caption="Angiv Snitvinkel på Element" TooltipText="Angiv Snitvinkel på Element" DescriptionText="Angiv Snitvinkel på Element" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33733" HideFlags="128" Caption="Save 4/5 Akset..." TooltipText="Save 4/5 Akset" DescriptionText="Save 4/5 Akset" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33166" HideFlags="128" Caption="Fræse Huller..." TooltipText="Fræse Huller" DescriptionText="Fræse Huller" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33708" HideFlags="128" Caption="Fræse Huller &amp;Auto_Z..." TooltipText="Fræse Huller Auto_Z" DescriptionText="Fræse Huller Auto_Z" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="3D">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33064" HideFlags="128" Caption="&amp;3D Overflade Fræsning..." TooltipText="3D Overflade Fræsning" DescriptionText="3D Overflade Fræsning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33511" HideFlags="128" Caption="3D &amp;Solid Fræsning..." TooltipText="3D Solid Fræsning" DescriptionText="3D Solid Fræsning" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33471" HideFlags="128" Caption="&amp;Bearbejd Spline/Polyline..." TooltipText="Bearbejd Spline/Polyline" DescriptionText="Bearbejd Spline/Polyline" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33023" HideFlags="128" Caption="Omvend &amp;bearbejdningsside" TooltipText="Omvend bearbejdningsside" DescriptionText="Omvend bearbejdningsside" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="5_Akset">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33471" HideFlags="128" Caption="&amp;Bearbejd Spline/Polyline..." TooltipText="Bearbejd Spline/Polyline" DescriptionText="Bearbejd Spline/Polyline" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33595" HideFlags="128" Caption="Konvertér Værktøjsvinkel..." TooltipText="Konvertér Værktøjsvinkel" DescriptionText="Konvertér Værktøjsvinkel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33711" HideFlags="128" Caption="Skær mellem 2 Geometrier..." TooltipText="Skær mellem 2 Geometrier" DescriptionText="Skær mellem 2 Geometrier" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Ind/Ud">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32887" HideFlags="128" Caption="Værktøjs &amp;Ind-/Udløb..." TooltipText="Værktøjs Ind-/Udløb" DescriptionText="Værktøjs Ind-/Udløb" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33477" HideFlags="128" Caption="Værktøjs Ind-/Udløb (for 3D Baner)" TooltipText="Værktøjs Ind-/Udløb (for 3D Baner)" DescriptionText="Værktøjs Ind-/Udløb (for 3D Baner)" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33528" HideFlags="128" Caption="&amp;3D Indløbs Rutine..." TooltipText="3D Indløbs Rutine" DescriptionText="3D Indløbs Rutine" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Definer Vkt.">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33827" HideFlags="128" Caption="Definer &amp;Holder/Aggregat..." TooltipText="Definer Holder/Aggregat" DescriptionText="Definer Holder/Aggregat" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32917" HideFlags="128" Caption="De&amp;finér nyt Værktøj..." TooltipText="Definér nyt Værktøj" DescriptionText="Definér nyt Værktøj" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Rediger">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="50017" HideFlags="128" Caption="&amp;Redigér Bearbejdning" TooltipText="&amp;Redigér Bearbejdning" DescriptionText=" " Style="2" CommandBarId="16777224"/>
+								<Control Class="CXTPControlButton" Id="32835" HideFlags="128" Caption="&amp;Rækkefølge..." TooltipText="Rækkefølge" DescriptionText="Rækkefølge" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32833" HideFlags="128" Caption="Start &amp;Punkt" TooltipText="Start Punkt" DescriptionText="Start Punkt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33815" HideFlags="128" Caption="&amp;Indsæt Program Stop" TooltipText="Indsæt Program Stop" DescriptionText="Indsæt Program Stop" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33186" HideFlags="128" Caption="&amp;Opdatér Værktøjsbaner" TooltipText="Opdatér Værktøjsbaner" DescriptionText="Opdatér Værktøjsbaner" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Skabeloner">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33584" HideFlags="128" Caption="&amp;Redigér Skabelon..." TooltipText="Redigér Skabelon" DescriptionText="Redigér Skabelon" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33583" HideFlags="128" Caption="Anvend Skabelon på Tildelte Lag..." TooltipText="Anvend Skabelon på Tildelte Lag" DescriptionText="Anvend Skabelon på Tildelte Lag" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33591" HideFlags="128" Caption="Anvend Skabelon på valgte Geometrier..." TooltipText="Anvend Skabelon på valgte Geometrier" DescriptionText="Anvend Skabelon på valgte Geometrier" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39948" HideFlags="128" Caption="Kør AutoSkabelon" TooltipText="Kør AutoSkabelon" DescriptionText="Kør AutoSkabelon" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39946" HideFlags="128" Caption="Ny AutoSkabelon" TooltipText="Ny AutoSkabelon" DescriptionText="Ny AutoSkabelon" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39947" HideFlags="128" Caption="Rediger AutoSkabelon" TooltipText="Rediger AutoSkabelon" DescriptionText="Rediger AutoSkabelon" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Nesting">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37634" HideFlags="128" Caption="Nest &amp;Emner" TooltipText="Nest Emner" DescriptionText="Nest Emner" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37635" HideFlags="128" Caption="Opret/Rediger Nest &amp;Liste" TooltipText="Opret/Rediger Nest Liste" DescriptionText="Opret/Rediger Nest Liste" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37636" HideFlags="128" Caption="Nesting &amp;Information" TooltipText="Nesting Information" DescriptionText="Nesting Information" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37637" HideFlags="128" Caption="Gem &amp;Fraskær" TooltipText="Gem Fraskær" DescriptionText="Gem Fraskær" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37639" HideFlags="128" Caption="Definer Plader og områder for Små Emner" TooltipText="Definer Plader og områder for Små Emner" DescriptionText="Definer Plader og områder for Små Emner" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37640" HideFlags="128" Caption="&amp;Definer Plader og Områder uden Nesting" TooltipText="Definer Plader og Områder uden Nesting" DescriptionText="Definer Plader og Områder uden Nesting" Style="2"/>
+								<Control Class="CXTPControlButton" Id="37638" HideFlags="128" Caption="&amp;Plade Database" TooltipText="Plade Database" DescriptionText="Plade Database" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Maskin Def.">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="50031" Flags="8" HideFlags="128" Caption="Clamps/Fixturer" TooltipText="Clamps/Fixturer" DescriptionText=" " Style="2" CommandBarId="16777225"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50030" Flags="8" HideFlags="128" Caption="Maskin Konfiguration" TooltipText="Maskin Konfiguration" DescriptionText=" " Style="2" CommandBarId="16777226"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Zoom">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32771" HideFlags="128" Caption="Zoom &amp;Alt" TooltipText="Zoom Alt" DescriptionText="Zoom Alt" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32772" HideFlags="128" Caption="Zoom &amp;Vindue" TooltipText="Zoom Vindue" DescriptionText="Zoom Vindue" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32778" HideFlags="128" Caption="V&amp;is Værktøjsretninger" TooltipText="Vis Værktøjsretninger" DescriptionText="Vis Værktøjsretninger" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="NC">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32862" HideFlags="128" Caption="L&amp;ist NC kode" TooltipText="List NC kode" DescriptionText="List NC kode til skærm" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Simulation">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33725" HideFlags="128" Caption="Simulation" TooltipText="Simulation" DescriptionText="Simulation" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33763" HideFlags="128" Caption="Solid Simulation" TooltipText="Solid Simulation" DescriptionText="Solid Simulation" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33765" HideFlags="128" Caption="Luk Solid Simulation" TooltipText="Luk Solid Simulation" DescriptionText="Luk Solid Simulation" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33486" HideFlags="128" Caption="&amp;Send til Simulator" TooltipText="Send til Simulator" DescriptionText="Send til Simulator" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33487" HideFlags="128" Caption="Send til &amp;Hurtig Simulering" TooltipText="Send til Hurtig Simulering" DescriptionText="Send til Hurtig Simulering" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Ny Gruppe (Bruger)"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Materiale">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32925" HideFlags="128" Caption="Definér 3D &amp;Volume" TooltipText="Definér 3D Volume" DescriptionText="Definér 3D Volume" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32928" HideFlags="128" Caption="Definér &amp;Materiale Størrelse" TooltipText="Definér Materiale Størrelse" DescriptionText="Definér Materiale Størrelse" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33529" HideFlags="128" Caption="Definer Z_Højder for geometri" TooltipText="Definer Z_Højder for geometri" DescriptionText="Definer Z_Højder for geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39508" HideFlags="128" Caption="Kalkuler Materiale..." TooltipText="Kalkuler Materiale" DescriptionText="Kalkuler Materiale" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Materiale"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Plan">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32936" HideFlags="128" Caption="&amp;Eksisterende geometri" TooltipText="Eksisterende geometri" DescriptionText="Eksisterende geometri" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32934" HideFlags="128" Caption="&amp;Snit gennem 3D Volume" TooltipText="Snit gennem 3D Volume" DescriptionText="Snit gennem 3D Volume" Style="2"/>
+								<Control Class="CXTPControlButton" Id="32927" HideFlags="128" Caption="Sæt &amp;Nulp. Plan" TooltipText="Sæt Nulp. Plan" DescriptionText="Sæt Nulp. Plan" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33139" HideFlags="128" Caption="&amp;Vend nuværende plan" TooltipText="Vend nuværende plan" DescriptionText="Plan: Vend lokal Z af nuv. plan" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Plan"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Automations Manager">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39700" HideFlags="128" Caption="Automations Manager" TooltipText="Automations Manager" DescriptionText="Automations Manager" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39701" HideFlags="128" Caption="Automations Manager Support" TooltipText="Automations Manager Support" DescriptionText="Automations Manager Support" Style="2"/>
+								<Control Class="CXTPControlButton" Id="39708" HideFlags="128" Caption="Hjælp Automations Manager " TooltipText="Hjælp Automations Manager " DescriptionText="Hjælp Automations Manager " Style="2"/>
+								<Control Class="CXTPControlButton" Id="39707" HideFlags="128" Caption="Importer Database fra Skabelon til Lag" TooltipText="Importer Database fra Skabelon til Lag" DescriptionText="Importer Database fra Skabelon til Lag" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Automations Manager"/>
+						</Group>
+						<Group Id="-1" IconId="-1" Caption="Forespørgsel">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33806" HideFlags="128" Caption="&amp;Ny Forespørgsel" TooltipText="Ny Forespørgsel" DescriptionText="Ny Forespørgsel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33807" HideFlags="128" Caption="&amp;Rediger Forespørgsel" TooltipText="Rediger Forespørgsel" DescriptionText="Rediger Forespørgsel" Style="2"/>
+								<Control Class="CXTPControlButton" Id="33808" HideFlags="128" Caption="&amp;Kør Forespørgsel" TooltipText="Kør Forespørgsel" DescriptionText="Kør Forespørgsel" Style="2"/>
+							</Controls>
+							<ControlGroupOption Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Flags="24" HideFlags="130" Caption="Forespørgsel"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Hjem" Id="1" Visible="0">
+					<Groups>
+						<Group IconId="-1" Caption="Fil" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33134" HideFlags="128" Caption="&amp;Importer Alpha tegning..." TooltipText="Importer Alpha tegning" DescriptionText="Indsætter en AlphaCAM tegning i nuv. tegning"/>
+								<Control Class="CXTPControlButton" Id="39597" HideFlags="128" Caption="Gem Blok..." TooltipText="Gem Blok" DescriptionText="Gem Blok"/>
+								<Control Class="CXTPControlButton" Id="39547" HideFlags="128" Caption="Gem Solider til Filer..." TooltipText="Gem Solider til Filer" DescriptionText="Gem Solider til Filer"/>
+							</Controls>
+							<ControlGroupOption Id="0" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="0" Flags="24" HideFlags="128" Caption="Fil"/>
+						</Group>
+						<Group Id="40046" IconId="-1" Caption="Image" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="40046" HideFlags="128" Caption="Raster til &amp;Vektor..." TooltipText="Raster til Vektor" DescriptionText="Raster til Vektor"/>
+							</Controls>
+							<ControlGroupOption Id="40046" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="40046" Flags="24" HideFlags="128" Caption="Image"/>
+						</Group>
+						<Group Id="1" IconId="-1" Caption="CAD" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33016" HideFlags="128" Caption="Im&amp;porter CAD..." TooltipText="Importer CAD" DescriptionText="Indsæt f.eks. DXF el. IGES fil"/>
+							</Controls>
+							<ControlGroupOption Id="1" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="1" Flags="24" HideFlags="128" Caption="CAD"/>
+						</Group>
+						<Group Id="2" IconId="-1" Caption="NC" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32862" HideFlags="128" Caption="L&amp;ist NC kode" TooltipText="List NC kode" DescriptionText="List NC kode til skærm"/>
+								<Control Class="CXTPControlButton" Id="33015" HideFlags="128" Caption="I&amp;mporter NC fil..." TooltipText="Importer NC fil" DescriptionText="Indsæt eksisterende NC program"/>
+							</Controls>
+							<ControlGroupOption Id="2" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="2" Flags="24" HideFlags="128" Caption="NC"/>
+						</Group>
+						<Group Id="39542" IconId="-1" Caption="Rapporter" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39542" HideFlags="128" Caption="Opret Rapporter..." TooltipText="Opret Rapporter" DescriptionText="Opret Rapporter"/>
+								<Control Class="CXTPControlButton" Id="39543" HideFlags="128" Caption="Åbn Rapport Viewer..." TooltipText="Åbn Rapport Viewer" DescriptionText="Åbn Rapport Viewer"/>
+								<Control Class="CXTPControlButton" Id="39545" HideFlags="128" Caption="Rediger Rapport Data Indstillinger..." TooltipText="Rediger Rapport Data Indstillinger" DescriptionText="Rediger Rapport Data Indstillinger"/>
+								<Control Class="CXTPControlButton" Id="39546" HideFlags="128" Caption="Hjælp" TooltipText="Hjælp" DescriptionText="Hjælp"/>
+							</Controls>
+							<ControlGroupOption Id="39542" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="39542" Flags="24" HideFlags="128" Caption="Rapporter"/>
+						</Group>
+						<Group Id="3" IconId="-1" Caption="Billede" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33787" HideFlags="128" Caption="Input Ima&amp;ge..." TooltipText="Input Image" DescriptionText="Input Bitmap og tildel denne til geometri"/>
+							</Controls>
+							<ControlGroupOption Id="3" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="3" Flags="24" HideFlags="128" Caption="Billede"/>
+						</Group>
+						<Group Id="5" IconId="-1" Caption="Utils" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33784" HideFlags="128" Caption="Gem Emne og Maskine..." TooltipText="Gem Emne og Maskine" DescriptionText="Gem Emne og Maskine"/>
+								<Control Class="CXTPControlButton" Id="32863" HideFlags="128" Caption="Rens &amp;Hukommelse..." TooltipText="Rens Hukommelse" DescriptionText="Clear alt el. del af tegning"/>
+							</Controls>
+							<ControlGroupOption Id="5" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="5" Flags="24" HideFlags="128" Caption="Utils"/>
+						</Group>
+						<Group Id="37969" IconId="-1" Caption="Templates" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37969" HideFlags="128" Caption="Åbn Template..." TooltipText="Åbn Template" DescriptionText="Åbn Template"/>
+								<Control Class="CXTPControlButton" Id="37970" HideFlags="128" Caption="Gem Som Template..." TooltipText="Gem Som Template" DescriptionText="Gem Som Template"/>
+							</Controls>
+							<ControlGroupOption Id="37969" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37969" Flags="24" HideFlags="128" Caption="Templates"/>
+						</Group>
+						<Group Id="4" IconId="-1" Caption="Indstillinger" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="32864" HideFlags="128" Caption="Kon&amp;figurér " TooltipText="Kon&amp;figurér " DescriptionText=" " CommandBarId="16777227"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="32865" HideFlags="128" Caption="&amp;Tekst Fonte" TooltipText="&amp;Tekst Fonte" DescriptionText=" " CommandBarId="16777228"/>
+							</Controls>
+							<ControlGroupOption Id="4" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="4" Flags="24" HideFlags="128" Caption="Indstillinger"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Rediger" Id="2" Visible="0">
+					<Groups>
+						<Group Id="6" IconId="-1" Caption="Rediger" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="57643" HideFlags="128" Caption="&amp;Fortryd: " TooltipText="Fortryd: " DescriptionText="Fortryd: "/>
+								<Control Class="CXTPControlButton" Id="57644" HideFlags="128" Caption="&amp;Annuller Fortryd" TooltipText="Annuller Fortryd" DescriptionText="Annuller Fortryd"/>
+								<Control Class="CXTPControlButton" Id="32783" HideFlags="128" Caption="&amp;Slet" TooltipText="Slet" DescriptionText="Slet"/>
+							</Controls>
+							<ControlGroupOption Id="6" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="6" Flags="24" HideFlags="128" Caption="Rediger"/>
+						</Group>
+						<Group Id="7" IconId="-1" Caption="Auto/2D/3D" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33508" HideFlags="128" Caption="Auto" TooltipText="Auto" DescriptionText="Auto"/>
+								<Control Class="CXTPControlButton" Id="33509" HideFlags="128" Caption="2D" TooltipText="2D" DescriptionText="2D"/>
+								<Control Class="CXTPControlButton" Id="33510" HideFlags="128" Caption="3D" TooltipText="3D" DescriptionText="3D"/>
+							</Controls>
+							<ControlGroupOption Id="7" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="7" Flags="24" HideFlags="128" Caption="Auto/2D/3D"/>
+						</Group>
+						<Group Id="8" IconId="-1" Caption="Flyt, Kopi etc" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32836" HideFlags="128" Caption="F&amp;lyt" TooltipText="Flyt" DescriptionText="Flyt"/>
+								<Control Class="CXTPControlButton" Id="57634" HideFlags="128" Caption="&amp;Kopi" TooltipText="Kopi" DescriptionText="Kopi"/>
+								<Control Class="CXTPControlButton" Id="57640" HideFlags="128" Caption="&amp;Lineær Kopi" TooltipText="Lineær Kopi" DescriptionText="Lineær Kopi"/>
+								<Control Class="CXTPControlButton" Id="32839" HideFlags="128" Caption="&amp;Rotér" TooltipText="Rotér" DescriptionText="Rotér"/>
+								<Control Class="CXTPControlButton" Id="32840" HideFlags="128" Caption="&amp;Multi Kopi" TooltipText="Multi Kopi" DescriptionText="Multi Kopi"/>
+								<Control Class="CXTPControlButton" Id="32841" HideFlags="128" Caption="Sp&amp;ejl" TooltipText="Spejl" DescriptionText="Spejl"/>
+								<Control Class="CXTPControlButton" Id="32842" HideFlags="128" Caption="&amp;Skalér" TooltipText="Skalér" DescriptionText="Skalér"/>
+								<Control Class="CXTPControlButton" Id="33460" HideFlags="128" Caption="S&amp;træk" TooltipText="Stræk" DescriptionText="Stræk"/>
+								<Control Class="CXTPControlButton" Id="33505" HideFlags="128" Caption="Vridning" TooltipText="Vridning" DescriptionText="Vridning"/>
+							</Controls>
+							<ControlGroupOption Id="8" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="8" Flags="24" HideFlags="128" Caption="Flyt, Kopi etc"/>
+						</Group>
+						<Group Id="9" IconId="-1" Caption="Bryde, Samle etc" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32843" HideFlags="128" Caption="&amp;Bryde..." TooltipText="Bryde" DescriptionText="Bryde"/>
+								<Control Class="CXTPControlButton" Id="39541" HideFlags="128" Caption="Opdel Geometri..." TooltipText="Opdel Geometri" DescriptionText="Opdel Geometri"/>
+								<Control Class="CXTPControlButton" Id="39512" HideFlags="128" Caption="Bryde ved &amp;Element Endepunkter..." TooltipText="Bryde ved Element Endepunkter" DescriptionText="Bryde ved Element Endepunkter"/>
+								<Control Class="CXTPControlButton" Id="33122" HideFlags="128" Caption="&amp;Trim" TooltipText="Trim" DescriptionText="Trim"/>
+								<Control Class="CXTPControlButton" Id="32844" HideFlags="128" Caption="S&amp;amle" TooltipText="Samle" DescriptionText="Samle"/>
+								<Control Class="CXTPControlButton" Id="32845" HideFlags="128" Caption="Forlænge" TooltipText="Forlænge" DescriptionText="Forlænge"/>
+								<Control Class="CXTPControlButton" Id="39985" HideFlags="128" Caption="Forlæng Linier..." TooltipText="Forlæng Linier" DescriptionText="Forlæng Linier"/>
+								<Control Class="CXTPControlButton" Id="33140" HideFlags="128" Caption="E&amp;ksplodér" TooltipText="Eksplodér" DescriptionText="Eksplodér"/>
+								<Control Class="CXTPControlButton" Id="32846" HideFlags="128" Caption="&amp;Afrunde..." TooltipText="Afrunde" DescriptionText="Afrunde"/>
+								<Control Class="CXTPControlButton" Id="32847" HideFlags="128" Caption="A&amp;ffase..." TooltipText="Affase" DescriptionText="Affase"/>
+								<Control Class="CXTPControlButton" Id="32848" HideFlags="128" Caption="&amp;Offset..." TooltipText="Offset" DescriptionText="Offset"/>
+								<Control Class="CXTPControlButton" Id="39511" HideFlags="128" Caption="&amp;Forbind Geometrier..." TooltipText="Forbind Geometrier" DescriptionText="Forbind Geometrier"/>
+							</Controls>
+							<ControlGroupOption Id="9" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="9" Flags="24" HideFlags="128" Caption="Bryde, Samle etc"/>
+						</Group>
+						<Group Id="10" IconId="-1" Caption="Start, Rækkefølge" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32833" HideFlags="128" Caption="Start &amp;Punkt" TooltipText="Start Punkt" DescriptionText="Start Punkt"/>
+								<Control Class="CXTPControlButton" Id="32834" HideFlags="128" Caption="&amp;Første..." TooltipText="Første" DescriptionText="Første"/>
+								<Control Class="CXTPControlButton" Id="32835" HideFlags="128" Caption="&amp;Rækkefølge..." TooltipText="Rækkefølge" DescriptionText="Rækkefølge"/>
+							</Controls>
+							<ControlGroupOption Id="10" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="10" Flags="24" HideFlags="128" Caption="Start, Rækkefølge"/>
+						</Group>
+						<Group Id="11" IconId="-1" Caption="Geometri Forespørgsel" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33806" HideFlags="128" Caption="&amp;Ny Forespørgsel" TooltipText="Ny Forespørgsel" DescriptionText="Ny Forespørgsel"/>
+								<Control Class="CXTPControlButton" Id="33807" HideFlags="128" Caption="&amp;Rediger Forespørgsel" TooltipText="Rediger Forespørgsel" DescriptionText="Rediger Forespørgsel"/>
+								<Control Class="CXTPControlButton" Id="33808" HideFlags="128" Caption="&amp;Kør Forespørgsel" TooltipText="Kør Forespørgsel" DescriptionText="Kør Forespørgsel"/>
+								<Control Class="CXTPControlButton" Id="39540" HideFlags="128" Caption="Ny Auto_Forespørgsel" TooltipText="Ny Auto_Forespørgsel" DescriptionText="Ny Auto_Forespørgsel"/>
+								<Control Class="CXTPControlButton" Id="39539" HideFlags="128" Caption="Rediger Auto_Forespørgsel" TooltipText="Rediger Auto_Forespørgsel" DescriptionText="Rediger Auto_Forespørgsel"/>
+								<Control Class="CXTPControlButton" Id="39538" HideFlags="128" Caption="Kør Auto_Forespørgsel" TooltipText="Kør Auto_Forespørgsel" DescriptionText="Kør Auto_Forespørgsel"/>
+							</Controls>
+							<ControlGroupOption Id="11" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="11" Flags="24" HideFlags="128" Caption="Geometri Forespørgsel"/>
+						</Group>
+						<Group Id="37889" IconId="-1" Caption="&amp;Fabriker" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37889" HideFlags="128" Caption="&amp;Opdel" TooltipText="Opdel" DescriptionText="Opdel"/>
+								<Control Class="CXTPControlButton" Id="37890" HideFlags="128" Caption="&amp;Slet Område" TooltipText="Slet Område" DescriptionText="Slet Område"/>
+								<Control Class="CXTPControlButton" Id="37891" HideFlags="128" Caption="&amp;Beskære" TooltipText="Beskære" DescriptionText="Beskære"/>
+								<Control Class="CXTPControlButton" Id="37892" HideFlags="128" Caption="&amp;Forene Kontur" TooltipText="Forene Kontur" DescriptionText="Forene Kontur"/>
+								<Control Class="CXTPControlButton" Id="37893" HideFlags="128" Caption="&amp;Fratræk" TooltipText="Fratræk" DescriptionText="Fratræk"/>
+								<Control Class="CXTPControlButton" Id="37894" HideFlags="128" Caption="&amp;Find Overlappende Områder" TooltipText="Find Overlappende Områder" DescriptionText="Find Overlappende Områder"/>
+								<Control Class="CXTPControlButton" Id="37895" HideFlags="128" Caption="&amp;Find Krydsende Områder" TooltipText="Find Krydsende Områder" DescriptionText="Find Krydsende Områder"/>
+								<Control Class="CXTPControlButton" Id="37896" HideFlags="128" Caption="Kopi af Samfaldende Område" TooltipText="Kopi af Samfaldende Område" DescriptionText="Kopi af Samfaldende Område"/>
+								<Control Class="CXTPControlButton" Id="37897" HideFlags="128" Caption="&amp;Inddel i Plader..." TooltipText="Inddel i Plader" DescriptionText="Inddel i Plader"/>
+							</Controls>
+							<ControlGroupOption Id="37889" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37889" Flags="24" HideFlags="128" Caption="&amp;Fabriker"/>
+						</Group>
+						<Group Id="12" IconId="-1" Caption="Utils" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32849" HideFlags="128" Caption="Æ&amp;ndre..." TooltipText="Ændre" DescriptionText="Ændre"/>
+								<Control Class="CXTPControlButton" Id="39514" HideFlags="128" Caption="Konverter til Cirkel..." TooltipText="Konverter til Cirkel" DescriptionText="Konverter til Cirkel"/>
+								<Control Class="CXTPControlButton" Id="32850" HideFlags="128" Caption="&amp;Gruppér" TooltipText="Gruppér" DescriptionText="Gruppér"/>
+								<Control Class="CXTPControlButton" Id="32851" HideFlags="128" Caption="&amp;Opdel Gruppe" TooltipText="Opdel Gruppe" DescriptionText="Opdel Gruppe"/>
+							</Controls>
+							<ControlGroupOption Id="12" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="12" Flags="24" HideFlags="128" Caption="Utils"/>
+						</Group>
+						<Group Id="39513" IconId="-1" Caption="Ændre Cirkelstørrelse (A.P.P.)" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39513" HideFlags="128" Caption="Ændre Cirkel Størrelse" TooltipText="Ændre Cirkel Størrelse" DescriptionText="Ændre Cirkel Størrelse"/>
+							</Controls>
+							<ControlGroupOption Id="39513" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="39513" Flags="24" HideFlags="128" Caption="Ændre Cirkelstørrelse (A.P.P.)"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Vis" Id="3" Visible="0">
+					<Groups>
+						<Group Id="13" IconId="-1" Caption="Skærm" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32774" HideFlags="128" Caption="Regenerér Skærm" TooltipText="Regenerér Skærm" DescriptionText="Regenerér Skærm"/>
+								<Control Class="CXTPControlButton" Id="32888" HideFlags="128" Caption="&amp;3D Views" TooltipText="3D Views" DescriptionText="3D Views"/>
+								<Control Class="CXTPControlButton" Id="33152" HideFlags="128" Caption="Shading" TooltipText="Shading" DescriptionText="Shading"/>
+							</Controls>
+							<ControlGroupOption Id="13" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="13" Flags="24" HideFlags="128" Caption="Skærm"/>
+						</Group>
+						<Group Id="14" IconId="-1" Caption="Views" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33604" BeginGroup="1" HideFlags="128" Caption="&amp;XY" TooltipText="XY" DescriptionText="XY"/>
+								<Control Class="CXTPControlButton" Id="33613" HideFlags="128" Caption="&amp;YZ" TooltipText="YZ" DescriptionText="YZ"/>
+								<Control Class="CXTPControlButton" Id="33614" HideFlags="128" Caption="X&amp;Z" TooltipText="XZ" DescriptionText="XZ"/>
+								<Control Class="CXTPControlButton" Id="33609" HideFlags="128" Caption="&amp;Iso" TooltipText="Iso" DescriptionText="Iso"/>
+								<Control Class="CXTPControlButton" Id="33772" HideFlags="128" Caption="&amp;Horisontal ISO 1" TooltipText="Horisontal ISO 1" DescriptionText="Horisontal ISO 1"/>
+								<Control Class="CXTPControlButton" Id="33773" HideFlags="128" Caption="H&amp;orisontal ISO 2" TooltipText="Horisontal ISO 2" DescriptionText="Horisontal ISO 2"/>
+								<Control Class="CXTPControlButton" Id="33678" HideFlags="128" Caption="&amp;Front" TooltipText="Front" DescriptionText="Front"/>
+								<Control Class="CXTPControlButton" Id="33679" HideFlags="128" Caption="&amp;Bag" TooltipText="Bag" DescriptionText="Bag"/>
+								<Control Class="CXTPControlButton" Id="33680" HideFlags="128" Caption="&amp;Venstre" TooltipText="Venstre" DescriptionText="Venstre"/>
+								<Control Class="CXTPControlButton" Id="33681" HideFlags="128" Caption="&amp;Højre" TooltipText="Højre" DescriptionText="Højre"/>
+								<Control Class="CXTPControlButton" Id="33682" HideFlags="128" Caption="&amp;Top" TooltipText="Top" DescriptionText="Top"/>
+								<Control Class="CXTPControlButton" Id="33683" HideFlags="128" Caption="&amp;Bund" TooltipText="Bund" DescriptionText="Bund"/>
+								<Control Class="CXTPControlButton" Id="33824" HideFlags="128" Caption="Navngivne Views" TooltipText="Navngivne Views" DescriptionText="Navngivne Views"/>
+								<Control Class="CXTPControlButton" Id="33600" HideFlags="128" Caption="&amp;Vinkelret til Plan" TooltipText="Vinkelret til Plan" DescriptionText="Vinkelret til Plan"/>
+								<Control Class="CXTPControlButton" Id="33616" HideFlags="128" Caption="&amp;Plan" TooltipText="Plan" DescriptionText="Plan"/>
+								<Control Class="CXTPControlButton" Id="33803" HideFlags="128" Caption="Omvend View" TooltipText="Omvend View" DescriptionText="Omvend View"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50001" HideFlags="128" Caption="&amp;Nyt Vindue" TooltipText="&amp;Nyt Vindue" DescriptionText=" " CommandBarId="16777229"/>
+							</Controls>
+							<ControlGroupOption Id="14" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="14" Flags="24" HideFlags="128" Caption="Views"/>
+						</Group>
+						<Group Id="15" IconId="-1" Caption="Nuværende View" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32771" HideFlags="128" Caption="Zoom &amp;Alt" TooltipText="Zoom Alt" DescriptionText="Zoom Alt"/>
+								<Control Class="CXTPControlButton" Id="32772" HideFlags="128" Caption="Zoom &amp;Vindue" TooltipText="Zoom Vindue" DescriptionText="Zoom Vindue"/>
+								<Control Class="CXTPControlButton" Id="32852" HideFlags="128" Caption="Zoom &amp;Forrige" TooltipText="Zoom Forrige" DescriptionText="Zoom Forrige"/>
+								<Control Class="CXTPControlButton" Id="32853" HideFlags="128" Caption="Zoom &amp;Ud" TooltipText="Zoom Ud" DescriptionText="Zoom Ud"/>
+								<Control Class="CXTPControlButton" Id="33141" HideFlags="128" Caption="Zoom &amp;Ind" TooltipText="Zoom Ind" DescriptionText="Zoom Ind"/>
+								<Control Class="CXTPControlButton" Id="32854" HideFlags="128" Caption="Zoom &amp;Limits" TooltipText="Zoom Limits" DescriptionText="Zoom Limits"/>
+								<Control Class="CXTPControlButton" Id="32773" HideFlags="128" Caption="Pa&amp;n" TooltipText="Pan" DescriptionText="Pan"/>
+								<Control Class="CXTPControlButton" Id="33035" HideFlags="128" Caption="Sæt Li&amp;mits" TooltipText="Sæt Limits" DescriptionText="Sæt Limits"/>
+							</Controls>
+							<ControlGroupOption Id="15" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="15" Flags="24" HideFlags="128" Caption="Nuværende View"/>
+						</Group>
+						<Group Id="16" IconId="-1" Caption="Skærm Indstillinger" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="32859" HideFlags="128" Caption="&amp;Skærm Indstillinger" TooltipText="&amp;Skærm Indstillinger" DescriptionText=" " CommandBarId="16777232"/>
+								<Control Class="CXTPControlButton" Id="32877" HideFlags="128" Caption="&amp;Baggrundsfarve..." TooltipText="Baggrundsfarve" DescriptionText="Baggrundsfarve"/>
+							</Controls>
+							<ControlGroupOption Id="16" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="16" Flags="24" HideFlags="128" Caption="Skærm Indstillinger"/>
+						</Group>
+						<Group Id="17" IconId="-1" Caption="Simulation" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33485" HideFlags="128" Caption="&amp;3D Overflade Verifikation" TooltipText="3D Overflade Verifikation" DescriptionText="3D Overflade Verifikation"/>
+								<Control Class="CXTPControlButton" Id="33725" HideFlags="128" Caption="Simulation" TooltipText="Simulation" DescriptionText="Simulation"/>
+								<Control Class="CXTPControlButton" Id="33763" HideFlags="128" Caption="Solid Simulation" TooltipText="Solid Simulation" DescriptionText="Solid Simulation"/>
+								<Control Class="CXTPControlButton" Id="33765" HideFlags="128" Caption="Luk Solid Simulation" TooltipText="Luk Solid Simulation" DescriptionText="Luk Solid Simulation"/>
+								<Control Class="CXTPControlButton" Id="33486" HideFlags="128" Caption="&amp;Send til Simulator" TooltipText="Send til Simulator" DescriptionText="Send til Simulator"/>
+								<Control Class="CXTPControlButton" Id="33487" HideFlags="128" Caption="Send til &amp;Hurtig Simulering" TooltipText="Send til Hurtig Simulering" DescriptionText="Send til Hurtig Simulering"/>
+							</Controls>
+							<ControlGroupOption Id="17" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="17" Flags="24" HideFlags="128" Caption="Simulation"/>
+						</Group>
+						<Group Id="18" IconId="-1" Caption="Projekt Manager" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="50000" HideFlags="128" Caption="&amp;Faner i Projekt Manager" TooltipText="&amp;Faner i Projekt Manager" DescriptionText=" " CommandBarId="16777233"/>
+							</Controls>
+							<ControlGroupOption Id="18" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="18" Flags="24" HideFlags="128" Caption="Projekt Manager"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Geometri" Id="4" Visible="0">
+					<Groups>
+						<Group Id="19" IconId="-1" Caption="Snaps" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33502" HideFlags="128" Caption="Auto Sna&amp;p" TooltipText="Auto Snap" DescriptionText="Auto Snap"/>
+								<Control Class="CXTPControlButton" Id="32911" HideFlags="128" Caption="Ortho Mode (F3)" TooltipText="Ortho Mode (F3)" DescriptionText="Ortho Mode (F3)"/>
+								<Control Class="CXTPControlButton" Id="32912" HideFlags="128" Caption="Snap Mode (F5)" TooltipText="Snap Mode (F5)" DescriptionText="Snap Mode (F5)"/>
+								<Control Class="CXTPControlButton" Id="32794" HideFlags="128" Caption="Sæt Snap/Ortho..." TooltipText="Sæt Snap/Ortho" DescriptionText="Sæt Snap/Ortho"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50012" HideFlags="128" Caption="Snaps" TooltipText="Snaps" DescriptionText=" " CommandBarId="16777234"/>
+							</Controls>
+							<ControlGroupOption Id="19" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="19" Flags="24" HideFlags="128" Caption="Snaps"/>
+						</Group>
+						<Group Id="20" IconId="-1" Caption="2D" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32784" HideFlags="128" Caption="&amp;Linie" TooltipText="Linie" DescriptionText="Linie"/>
+								<Control Class="CXTPControlPopup" Type="4" Id="32786" HideFlags="128" Caption="&amp;Bue" TooltipText="3 Punkter" DescriptionText="3 Punkter" CommandBarId="16777235"/>
+								<Control Class="CXTPControlPopup" Type="4" Id="32826" HideFlags="128" Caption="&amp;Cirkel" TooltipText="Center + Dia" DescriptionText="Center + Dia" CommandBarId="16777236"/>
+								<Control Class="CXTPControlButton" Id="32897" HideFlags="128" Caption="&amp;Rektangel" TooltipText="Rektangel" DescriptionText="Rektangel"/>
+								<Control Class="CXTPControlPopup" Type="4" Id="32910" HideFlags="128" Caption="Speciel &amp;Geometri" TooltipText="Polygon" DescriptionText="Polygon" CommandBarId="16777237"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="32879" HideFlags="128" Caption="&amp;Geometri" TooltipText="&amp;Geometri" DescriptionText="Tænd/Sluk Geometri Ikon bjælke" CommandBarId="16777238"/>
+								<Control Class="CXTPControlButton" Id="32823" HideFlags="128" Caption="K&amp;onstruktion" TooltipText="Konstruktion" DescriptionText="Konstruktion"/>
+							</Controls>
+							<ControlGroupOption Id="20" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="20" Flags="24" HideFlags="128" Caption="2D"/>
+						</Group>
+						<Group Id="21" IconId="-1" Caption="3D" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33021" HideFlags="128" Caption="3D &amp;Polylinie" TooltipText="3D Polylinie" DescriptionText="3D Polylinie"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50007" HideFlags="128" Caption="&amp;Splines" TooltipText="&amp;Splines" DescriptionText=" " CommandBarId="16777239"/>
+							</Controls>
+							<ControlGroupOption Id="21" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="21" Flags="24" HideFlags="128" Caption="3D"/>
+						</Group>
+						<Group Id="22" IconId="-1" Caption="Surfaces" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33022" HideFlags="128" Caption="&amp;3D Overflade..." TooltipText="3D Overflade" DescriptionText="3D Overflade"/>
+							</Controls>
+							<ControlGroupOption Id="22" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="22" Flags="24" HideFlags="128" Caption="Surfaces"/>
+						</Group>
+						<Group Id="23" IconId="-1" Caption="Tekst" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32924" HideFlags="128" Caption="&amp;Tekst..." TooltipText="Tekst" DescriptionText="Tekst"/>
+								<Control Class="CXTPControlButton" Id="33499" HideFlags="128" Caption="&amp;Redigér Tekst" TooltipText="Redigér Tekst" DescriptionText="Redigér Tekst"/>
+							</Controls>
+							<ControlGroupOption Id="23" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="23" Flags="24" HideFlags="128" Caption="Tekst"/>
+						</Group>
+						<Group Id="39519" IconId="-1" Caption="Bølger" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39519" HideFlags="128" Caption="Bølger i XY" TooltipText="Bølger i XY" DescriptionText="Bølger i XY"/>
+								<Control Class="CXTPControlButton" Id="39520" HideFlags="128" Caption="Bølger i Z" TooltipText="Bølger i Z" DescriptionText="Bølger i Z"/>
+								<Control Class="CXTPControlButton" Id="39521" HideFlags="128" Caption="Konverter Linier/Buer til Z_Bølger" TooltipText="Konverter Linier/Buer til Z_Bølger" DescriptionText="Konverter Linier/Buer til Z_Bølger"/>
+							</Controls>
+							<ControlGroupOption Id="39519" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="39519" Flags="24" HideFlags="128" Caption="Bølger"/>
+						</Group>
+						<Group Id="24" IconId="-1" Caption="Utils" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32868" HideFlags="128" Caption="&amp;Redigér/List Geometri..." TooltipText="Redigér/List Geometri" DescriptionText="Redigér/List Geometri"/>
+								<Control Class="CXTPControlButton" Id="33024" HideFlags="128" Caption="Redigér 3D Pol&amp;ylinie" TooltipText="Redigér 3D Polylinie" DescriptionText="Redigér 3D Polylinie"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50014" HideFlags="128" Caption="Speciel &amp;Funktion" TooltipText="Speciel &amp;Funktion" DescriptionText=" " CommandBarId="16777240"/>
+							</Controls>
+							<ControlGroupOption Id="24" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="24" Flags="24" HideFlags="128" Caption="Utils"/>
+						</Group>
+						<Group Id="25" IconId="-1" Caption="Digitize" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33074" HideFlags="128" Caption="&amp;Digitize..." TooltipText="Digitize" DescriptionText="Digitize"/>
+							</Controls>
+							<ControlGroupOption Id="25" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="25" Flags="24" HideFlags="128" Caption="Digitize"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Plan" Id="11" Visible="0">
+					<Groups>
+						<Group Id="28" IconId="-1" Caption="Vælg Plan" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32934" HideFlags="128" Caption="&amp;Snit gennem 3D Volume" TooltipText="Snit gennem 3D Volume" DescriptionText="Snit gennem 3D Volume"/>
+								<Control Class="CXTPControlButton" Id="32935" HideFlags="128" Caption="&amp;2 Linier for X og Y-akser" TooltipText="2 Linier for X og Y-akser" DescriptionText="2 Linier for X og Y-akser"/>
+								<Control Class="CXTPControlButton" Id="32936" HideFlags="128" Caption="&amp;Eksisterende geometri" TooltipText="Eksisterende geometri" DescriptionText="Eksisterende geometri"/>
+								<Control Class="CXTPControlButton" Id="32937" HideFlags="128" Caption="&amp;Parallel til nuværende plan" TooltipText="Parallel til nuværende plan" DescriptionText="Plan: Parallel med nuv. plan"/>
+								<Control Class="CXTPControlButton" Id="32938" HideFlags="128" Caption="Vinkelret til Aktiv Plan" TooltipText="Vinkelret til Aktiv Plan" DescriptionText="Plan: Vinkelret til Aktivt Plan"/>
+								<Control Class="CXTPControlButton" Id="33139" HideFlags="128" Caption="&amp;Vend nuværende plan" TooltipText="Vend nuværende plan" DescriptionText="Plan: Vend lokal Z af nuv. plan"/>
+								<Control Class="CXTPControlButton" Id="33169" HideFlags="128" Caption="Som nuv. Plan, med andet &amp;Nulpunkt" TooltipText="Som nuv. Plan, med andet Nulpunkt" DescriptionText="Plan:"/>
+								<Control Class="CXTPControlButton" Id="33170" HideFlags="128" Caption="Efter &amp;Navn..." TooltipText="Efter Navn" DescriptionText="Plan: Efter brugerdef. navn"/>
+								<Control Class="CXTPControlButton" Id="33596" HideFlags="128" Caption="Tilpasset - &quot;Best Fit&quot; - gennem Punkter" TooltipText="Tilpasset - &quot;Best Fit&quot; - gennem Punkter" DescriptionText="Tilpasset - &quot;Best Fit&quot; - gennem Punkter"/>
+								<Control Class="CXTPControlButton" Id="39488" HideFlags="128" Caption="Efter Vektor af Linie" TooltipText="Efter Vektor af Linie" DescriptionText="Efter Vektor af Linie"/>
+								<Control Class="CXTPControlButton" Id="33601" HideFlags="128" Caption="Vinkelret til &amp;View" TooltipText="Vinkelret til View" DescriptionText="Plan: Vinkelret til View"/>
+								<Control Class="CXTPControlButton" Id="36892" HideFlags="128" Caption="Plan på Model&amp;Flade" TooltipText="Plan på ModelFlade" DescriptionText="Plan på ModelFlade"/>
+							</Controls>
+							<ControlGroupOption Id="28" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="28" Flags="24" HideFlags="128" Caption="Vælg Plan"/>
+						</Group>
+						<Group Id="29" IconId="-1" Caption="Rediger Plan" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32927" HideFlags="128" Caption="Sæt &amp;Nulp. Plan" TooltipText="Sæt Nulp. Plan" DescriptionText="Sæt Nulp. Plan"/>
+								<Control Class="CXTPControlButton" Id="33171" HideFlags="128" Caption="&amp;Egenskaber for Plan..." TooltipText="Egenskaber for Plan" DescriptionText="Egenskaber for Plan"/>
+								<Control Class="CXTPControlButton" Id="33810" HideFlags="128" Caption="Arranger Pla&amp;ner..." TooltipText="Arranger Planer" DescriptionText="Arranger Planer"/>
+								<Control Class="CXTPControlButton" Id="32929" HideFlags="128" Caption="&amp;Déaktiver Plan" TooltipText="Déaktiver Plan" DescriptionText="Déaktiver Plan"/>
+								<Control Class="CXTPControlButton" Id="33482" HideFlags="128" Caption="Gør lokal akse &amp;Horizontal..." TooltipText="Gør lokal akse Horizontal" DescriptionText="Gør lokal akse Horizontal"/>
+							</Controls>
+							<ControlGroupOption Id="29" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="29" Flags="24" HideFlags="128" Caption="Rediger Plan"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="3D" Id="5" Visible="0">
+					<Groups>
+						<Group Id="26" IconId="-1" Caption="Angiv Z_Niveau / Materiale" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32928" HideFlags="128" Caption="Definér &amp;Materiale Størrelse" TooltipText="Definér Materiale Størrelse" DescriptionText="Definér Materiale Størrelse"/>
+								<Control Class="CXTPControlButton" Id="39508" HideFlags="128" Caption="Kalkuler Materiale..." TooltipText="Kalkuler Materiale" DescriptionText="Kalkuler Materiale"/>
+								<Control Class="CXTPControlButton" Id="33828" HideFlags="128" Caption="Vælg emner for Simulering" TooltipText="Vælg emner for Simulering" DescriptionText="Vælg emner for Simulering"/>
+								<Control Class="CXTPControlButton" Id="32925" HideFlags="128" Caption="Definér 3D &amp;Volume" TooltipText="Definér 3D Volume" DescriptionText="Definér 3D Volume"/>
+								<Control Class="CXTPControlButton" Id="33529" HideFlags="128" Caption="Definer Z_Højder for geometri" TooltipText="Definer Z_Højder for geometri" DescriptionText="Definer Z_Højder for geometri"/>
+								<Control Class="CXTPControlButton" Id="33712" HideFlags="128" Caption="Redigér Geometri Z Punkt for Punkt" TooltipText="Redigér Geometri Z Punkt for Punkt" DescriptionText="Redigér Geometri Z Punkt for Punkt"/>
+							</Controls>
+							<ControlGroupOption Id="26" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="26" Flags="24" HideFlags="128" Caption="Angiv Z_Niveau / Materiale"/>
+						</Group>
+						<Group Id="30" IconId="-1" Caption="Panel" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33357" HideFlags="128" Caption="Specificér &amp;Panel" TooltipText="Specificér Panel" DescriptionText="Specificér Panel"/>
+								<Control Class="CXTPControlButton" Id="33358" HideFlags="128" Caption="Vis Panel&amp;kanter" TooltipText="Vis Panelkanter" DescriptionText="Vis Panelkanter"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50009" HideFlags="128" Caption="Vælg panelkant" TooltipText="Vælg panelkant" DescriptionText=" " CommandBarId="16777241"/>
+							</Controls>
+							<ControlGroupOption Id="30" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="30" Flags="24" HideFlags="128" Caption="Panel"/>
+						</Group>
+						<Group Id="31" IconId="-1" Caption="Rediger Surfaces" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="50010" HideFlags="128" Caption="&amp;Redigér 3D Overflade" TooltipText="&amp;Redigér 3D Overflade" DescriptionText=" " CommandBarId="16777242"/>
+								<Control Class="CXTPControlButton" Id="33023" HideFlags="128" Caption="Omvend &amp;bearbejdningsside" TooltipText="Omvend bearbejdningsside" DescriptionText="Omvend bearbejdningsside"/>
+								<Control Class="CXTPControlButton" Id="33138" HideFlags="128" Caption="Lav &amp;sektioner fra Overflade..." TooltipText="Lav sektioner fra Overflade" DescriptionText="Lav sektioner fra Overflade"/>
+							</Controls>
+							<ControlGroupOption Id="31" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="31" Flags="24" HideFlags="128" Caption="Rediger Surfaces"/>
+						</Group>
+						<Group Id="32" IconId="-1" Caption="Rediger Geometrier" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39532" HideFlags="128" Caption="Projicer &amp;3D til 2D" TooltipText="Projicer 3D til 2D" DescriptionText="Projicer 3D til 2D"/>
+								<Control Class="CXTPControlButton" Id="33025" HideFlags="128" Caption="3D &amp;Projektion..." TooltipText="3D Projektion" DescriptionText="3D Projektion"/>
+								<Control Class="CXTPControlButton" Id="33107" HideFlags="128" Caption="Overfør/Fold til Overflade/Solid..." TooltipText="Overfør/Fold til Overflade/Solid" DescriptionText="Overfør 2D Geometrier / Værktøjsbaner til Overflade eller Solid."/>
+								<Control Class="CXTPControlButton" Id="33108" HideFlags="128" Caption="Overfør/Fold omkring Geometri..." TooltipText="Overfør/Fold omkring Geometri" DescriptionText="Overfør/Fold omkring Geometri"/>
+							</Controls>
+							<ControlGroupOption Id="32" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="32" Flags="24" HideFlags="128" Caption="Rediger Geometrier"/>
+						</Group>
+						<Group Id="37378" IconId="-1" Caption="STL Utilities" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37378" HideFlags="128" Caption="Konverter STL Facetter til 3D Polylinier" TooltipText="Konverter STL Facetter til 3D Polylinier" DescriptionText="Konverter STL Facetter til 3D Polylinier"/>
+								<Control Class="CXTPControlButton" Id="37379" HideFlags="128" Caption="Slet STL Facetter" TooltipText="Slet STL Facetter" DescriptionText="Slet STL Facetter"/>
+								<Control Class="CXTPControlButton" Id="37381" HideFlags="128" Caption="Opdel STL i sektioner" TooltipText="Opdel STL i sektioner" DescriptionText="Opdel STL i sektioner"/>
+								<Control Class="CXTPControlButton" Id="37382" HideFlags="128" Caption="Omvend Farve på Flader" TooltipText="Omvend Farve på Flader" DescriptionText="Omvend Farve på Flader"/>
+								<Control Class="CXTPControlButton" Id="39529" HideFlags="128" Caption="Udtræk 3D Kanter" TooltipText="Udtræk 3D Kanter" DescriptionText="Udtræk 3D Kanter"/>
+								<Control Class="CXTPControlButton" Id="39530" HideFlags="128" Caption="Projicer Kanter til Aktiv Plan" TooltipText="Projicer Kanter til Aktiv Plan" DescriptionText="Projicer Kanter til Aktiv Plan"/>
+								<Control Class="CXTPControlButton" Id="39531" HideFlags="128" Caption="Opret Omsluttet Rektangel" TooltipText="Opret Omsluttet Rektangel" DescriptionText="Opret Omsluttet Rektangel"/>
+							</Controls>
+							<ControlGroupOption Id="37378" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37378" Flags="24" HideFlags="128" Caption="STL Utilities"/>
+						</Group>
+						<Group Id="39528" IconId="-1" Caption="3D Emnerotation" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39528" HideFlags="128" Caption="3D Emnerotation" TooltipText="3D Emnerotation" DescriptionText="3D Emnerotation"/>
+							</Controls>
+							<ControlGroupOption Id="39528" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="39528" Flags="24" HideFlags="128" Caption="3D Emnerotation"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="CAD" Id="6" Visible="0">
+					<Groups>
+						<Group Id="33" IconId="-1" Caption="Målsætning" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32777" HideFlags="128" Caption="&amp;Målsætning..." TooltipText="Målsætning" DescriptionText="Målsætning"/>
+								<Control Class="CXTPControlButton" Id="32869" HideFlags="128" Caption="Fl&amp;yt Målsætning" TooltipText="Flyt Målsætning" DescriptionText="Flyt Målsætning"/>
+							</Controls>
+							<ControlGroupOption Id="33" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="33" Flags="24" HideFlags="128" Caption="Målsætning"/>
+						</Group>
+						<Group Id="34" IconId="-1" Caption="Utils" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32880" HideFlags="128" Caption="&amp;Distance/Vinkel" TooltipText="Distance/Vinkel" DescriptionText="Distance/Vinkel"/>
+								<Control Class="CXTPControlButton" Id="32881" HideFlags="128" Caption="&amp;Vis Koordinater" TooltipText="Vis Koordinater" DescriptionText="Vis Koordinater"/>
+								<Control Class="CXTPControlButton" Id="32884" HideFlags="128" Caption="&amp;Radius af" TooltipText="Radius af" DescriptionText="Radius af"/>
+								<Control Class="CXTPControlButton" Id="32898" HideFlags="128" Caption="&amp;Skravering..." TooltipText="Skravering" DescriptionText="Skravering"/>
+								<Control Class="CXTPControlButton" Id="32899" HideFlags="128" Caption="&amp;Forstørrelse" TooltipText="Forstørrelse" DescriptionText="Forstørrelse"/>
+							</Controls>
+							<ControlGroupOption Id="34" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="34" Flags="24" HideFlags="128" Caption="Utils"/>
+						</Group>
+						<Group Id="35" IconId="-1" Caption="Vis/Skjul" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32870" HideFlags="128" Caption="Sk&amp;jul Emner" TooltipText="Skjul Emner" DescriptionText="Skjul Emner"/>
+								<Control Class="CXTPControlButton" Id="32871" HideFlags="128" Caption="&amp;Vis Alt" TooltipText="Vis Alt" DescriptionText="Vis Alt"/>
+							</Controls>
+							<ControlGroupOption Id="35" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="35" Flags="24" HideFlags="128" Caption="Vis/Skjul"/>
+						</Group>
+						<Group Id="36" IconId="-1" Caption="Brugerdef. Lag" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32900" HideFlags="128" Caption="&amp;Bruger Lag..." TooltipText="Bruger Lag" DescriptionText="Bruger Lag"/>
+								<Control Class="CXTPControlButton" Id="32901" HideFlags="128" Caption="&amp;AlphaCAM Lag..." TooltipText="AlphaCAM Lag" DescriptionText="AlphaCAM Lag"/>
+							</Controls>
+							<ControlGroupOption Id="36" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36" Flags="24" HideFlags="128" Caption="Brugerdef. Lag"/>
+						</Group>
+						<Group Id="37" IconId="-1" Caption="Linie Egenskaber" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32902" HideFlags="128" Caption="Sæt &amp;Linietype..." TooltipText="Sæt Linietype" DescriptionText="Sæt Linietype"/>
+								<Control Class="CXTPControlButton" Id="32903" HideFlags="128" Caption="&amp;Redigér Linietype..." TooltipText="Redigér Linietype" DescriptionText="Redigér Linietype"/>
+								<Control Class="CXTPControlButton" Id="39440" HideFlags="128" Caption="Ændre Egenskaber" TooltipText="Ændre Egenskaber" DescriptionText="Ændre Egenskaber"/>
+							</Controls>
+							<ControlGroupOption Id="37" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37" Flags="24" HideFlags="128" Caption="Linie Egenskaber"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Maskine" Id="7" Visible="0">
+					<Groups>
+						<Group Id="38" IconId="-1" Caption="Værktøjer og Retninger" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32780" HideFlags="128" Caption="Vælg &amp;Værktøj..." TooltipText="Vælg Værktøj" DescriptionText="Vælg Værktøj"/>
+								<Control Class="CXTPControlButton" Id="32776" HideFlags="128" Caption="Værktøjs&amp;retninger..." TooltipText="Værktøjsretninger" DescriptionText="Sæt bearbejdningsside og retning"/>
+								<Control Class="CXTPControlButton" Id="33695" HideFlags="128" Caption="Sæt Åbne Elementer" TooltipText="Sæt Åbne Elementer" DescriptionText="Sæt Åbne Elementer"/>
+							</Controls>
+							<ControlGroupOption Id="38" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="38" Flags="24" HideFlags="128" Caption="Værktøjer og Retninger"/>
+						</Group>
+						<Group Id="39" IconId="-1" Caption="Geometri" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32878" HideFlags="128" Caption="S&amp;krub-/Sletspån..." TooltipText="Skrub-/Sletspån" DescriptionText="Lav skrub/ el. sletspånsbarb."/>
+								<Control Class="CXTPControlButton" Id="32775" HideFlags="128" Caption="Lommef&amp;ræsning..." TooltipText="Lommefræsning" DescriptionText="Lommefræsning"/>
+								<Control Class="CXTPControlButton" Id="32905" HideFlags="128" Caption="3D Gra&amp;véring..." TooltipText="3D Gravéring" DescriptionText="3D Gravéring"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50018" HideFlags="128" Caption="&amp;Huller (Bore- / Fræse- /Lommefræse)" TooltipText="&amp;Huller (Bore- / Fræse- /Lommefræse)" DescriptionText=" " CommandBarId="16777243"/>
+								<Control Class="CXTPControlButton" Id="32913" HideFlags="128" Caption="Ma&amp;nuel Værktøjsbane..." TooltipText="Manuel Værktøjsbane" DescriptionText="Manuel Værktøjsbane"/>
+								<Control Class="CXTPControlButton" Id="33733" HideFlags="128" Caption="Save 4/5 Akset..." TooltipText="Save 4/5 Akset" DescriptionText="Save 4/5 Akset"/>
+								<Control Class="CXTPControlButton" Id="33736" HideFlags="128" Caption="Angiv Snitvinkel på Element" TooltipText="Angiv Snitvinkel på Element" DescriptionText="Angiv Snitvinkel på Element"/>
+								<Control Class="CXTPControlButton" Id="33711" HideFlags="128" Caption="Skær mellem 2 Geometrier..." TooltipText="Skær mellem 2 Geometrier" DescriptionText="Skær mellem 2 Geometrier"/>
+							</Controls>
+							<ControlGroupOption Id="39" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="39" Flags="24" HideFlags="128" Caption="Geometri"/>
+						</Group>
+						<Group Id="40" IconId="-1" Caption="3D Bearbejdning" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33471" HideFlags="128" Caption="&amp;Bearbejd Spline/Polyline..." TooltipText="Bearbejd Spline/Polyline" DescriptionText="Bearbejd Spline/Polyline"/>
+								<Control Class="CXTPControlButton" Id="33064" HideFlags="128" Caption="&amp;3D Overflade Fræsning..." TooltipText="3D Overflade Fræsning" DescriptionText="3D Overflade Fræsning"/>
+								<Control Class="CXTPControlButton" Id="33511" HideFlags="128" Caption="3D &amp;Solid Fræsning..." TooltipText="3D Solid Fræsning" DescriptionText="3D Solid Fræsning"/>
+							</Controls>
+							<ControlGroupOption Id="40" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="40" Flags="24" HideFlags="128" Caption="3D Bearbejdning"/>
+						</Group>
+						<Group Id="41" IconId="-1" Caption="Skabeloner" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="3" Id="50019" HideFlags="128" Caption="Skabeloner" TooltipText="Skabeloner" DescriptionText=" " CommandBarId="16777244"/>
+							</Controls>
+							<ControlGroupOption Id="41" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="41" Flags="24" HideFlags="128" Caption="Skabeloner"/>
+						</Group>
+						<Group Id="42" IconId="-1" Caption="Specielle Redigeringer" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlPopup" Type="4" Id="32887" HideFlags="128" Caption="Vkt. tilgang" TooltipText="Værktøjs Ind-/Udløb" DescriptionText="Værktøjs Ind-/Udløb" CommandBarId="16777245"/>
+								<Control Class="CXTPControlButton" Id="33815" HideFlags="128" Caption="&amp;Indsæt Program Stop" TooltipText="Indsæt Program Stop" DescriptionText="Indsæt Program Stop"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50026" HideFlags="128" Caption="&amp;Brugerdefineret Kode" TooltipText="&amp;Brugerdefineret Kode" DescriptionText=" " CommandBarId="16777246"/>
+								<Control Class="CXTPControlButton" Id="33186" HideFlags="128" Caption="&amp;Opdatér Værktøjsbaner" TooltipText="Opdatér Værktøjsbaner" DescriptionText="Opdatér Værktøjsbaner"/>
+								<Control Class="CXTPControlPopup" Type="2" HideFlags="128" Caption="&amp;Redigér Bearbejdning" TooltipText=" " DescriptionText=" " CommandBarId="16777247"/>
+							</Controls>
+							<ControlGroupOption Id="42" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="42" Flags="24" HideFlags="128" Caption="Specielle Redigeringer"/>
+						</Group>
+						<Group Id="43" IconId="-1" Caption="Utils" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32876" HideFlags="128" Caption="Vælg &amp;Materialetype..." TooltipText="Vælg Materialetype" DescriptionText="Vis materialebibliotek"/>
+								<Control Class="CXTPControlButton" Id="32917" HideFlags="128" Caption="De&amp;finér nyt Værktøj..." TooltipText="Definér nyt Værktøj" DescriptionText="Definér nyt Værktøj"/>
+								<Control Class="CXTPControlButton" Id="33827" HideFlags="128" Caption="Definer &amp;Holder/Aggregat..." TooltipText="Definer Holder/Aggregat" DescriptionText="Definer Holder/Aggregat"/>
+							</Controls>
+							<ControlGroupOption Id="43" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="43" Flags="24" HideFlags="128" Caption="Utils"/>
+						</Group>
+						<Group Id="44" IconId="-1" Caption="Konfiguration" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="33811" HideFlags="128" Caption="Automatisk Ilgangs Mana&amp;ger..." TooltipText="Automatisk Ilgangs Manager" DescriptionText="Automatisk Ilgangs Manager"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50030" Flags="8" HideFlags="128" Caption="Maskin Konfiguration" TooltipText="Maskin Konfiguration" DescriptionText=" " CommandBarId="16777248"/>
+								<Control Class="CXTPControlPopup" Type="3" Id="50031" Flags="8" HideFlags="128" Caption="Clamps/Fixturer" TooltipText="Clamps/Fixturer" DescriptionText=" " CommandBarId="16777249"/>
+							</Controls>
+							<ControlGroupOption Id="44" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="44" Flags="24" HideFlags="128" Caption="Konfiguration"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Nesting" Id="8" Visible="0">
+					<Groups>
+						<Group Id="48" IconId="-1" Caption="Nesting" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32873" HideFlags="128" Caption="&amp;Hent Nest Liste" TooltipText="Hent Nest Liste" DescriptionText="Hent Nest Liste"/>
+								<Control Class="CXTPControlButton" Id="37634" HideFlags="128" Caption="Nest &amp;Emner" TooltipText="Nest Emner" DescriptionText="Nest Emner"/>
+								<Control Class="CXTPControlButton" Id="37635" HideFlags="128" Caption="Opret/Rediger Nest &amp;Liste" TooltipText="Opret/Rediger Nest Liste" DescriptionText="Opret/Rediger Nest Liste"/>
+								<Control Class="CXTPControlButton" Id="37636" HideFlags="128" Caption="Nesting &amp;Information" TooltipText="Nesting Information" DescriptionText="Nesting Information"/>
+								<Control Class="CXTPControlButton" Id="37637" HideFlags="128" Caption="Gem &amp;Fraskær" TooltipText="Gem Fraskær" DescriptionText="Gem Fraskær"/>
+								<Control Class="CXTPControlButton" Id="37638" HideFlags="128" Caption="&amp;Plade Database" TooltipText="Plade Database" DescriptionText="Plade Database"/>
+								<Control Class="CXTPControlButton" Id="37639" HideFlags="128" Caption="Definer Plader og områder for Små Emner" TooltipText="Definer Plader og områder for Små Emner" DescriptionText="Definer Plader og områder for Små Emner"/>
+								<Control Class="CXTPControlButton" Id="37640" HideFlags="128" Caption="&amp;Definer Plader og Områder uden Nesting" TooltipText="Definer Plader og Områder uden Nesting" DescriptionText="Definer Plader og Områder uden Nesting"/>
+							</Controls>
+							<ControlGroupOption Id="48" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="48" Flags="24" HideFlags="128" Caption="Nesting"/>
+						</Group>
+						<Group Id="49" IconId="-1" Caption="Areal Beregning" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="32943" HideFlags="128" Caption="&amp;Individuel" TooltipText="Individuel" DescriptionText="Individuel"/>
+								<Control Class="CXTPControlButton" Id="32944" HideFlags="128" Caption="&amp;Nestet Plade" TooltipText="Nestet Plade" DescriptionText="Nestet Plade"/>
+							</Controls>
+							<ControlGroupOption Id="49" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="49" Flags="24" HideFlags="128" Caption="Areal Beregning"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="&amp;Parametri" Id="37121" Visible="0">
+					<Groups>
+						<Group Id="37121" IconId="-1" Caption="Enkelt Geometri" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37121" HideFlags="128" Caption="&amp;Fix Punkt" TooltipText="Fix Punkt" DescriptionText="Fix Punkt"/>
+								<Control Class="CXTPControlButton" Id="37122" HideFlags="128" Caption="&amp;Horisontal" TooltipText="Horisontal" DescriptionText="Horisontal"/>
+								<Control Class="CXTPControlButton" Id="37123" HideFlags="128" Caption="&amp;Vertikal" TooltipText="Vertikal" DescriptionText="Vertikal"/>
+								<Control Class="CXTPControlButton" Id="37124" HideFlags="128" Caption="&amp;Længde" TooltipText="Længde" DescriptionText="Længde"/>
+								<Control Class="CXTPControlButton" Id="37125" HideFlags="128" Caption="&amp;Radius" TooltipText="Radius" DescriptionText="Radius"/>
+							</Controls>
+							<ControlGroupOption Id="37121" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37121" Flags="24" HideFlags="128" Caption="Enkelt Geometri"/>
+						</Group>
+						<Group Id="37126" IconId="-1" Caption="To Geometrier" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37126" HideFlags="128" Caption="&amp;Sammenfaldende" TooltipText="Sammenfaldende" DescriptionText="Sammenfaldende"/>
+								<Control Class="CXTPControlButton" Id="37127" HideFlags="128" Caption="V&amp;inkelret" TooltipText="Vinkelret" DescriptionText="Vinkelret"/>
+								<Control Class="CXTPControlButton" Id="37128" HideFlags="128" Caption="&amp;Tangentiel" TooltipText="Tangentiel" DescriptionText="Tangentiel"/>
+								<Control Class="CXTPControlButton" Id="37129" HideFlags="128" Caption="&amp;Distance" TooltipText="Distance" DescriptionText="Distance"/>
+								<Control Class="CXTPControlButton" Id="37130" HideFlags="128" Caption="Vink&amp;el" TooltipText="Vinkel" DescriptionText="Vinkel"/>
+							</Controls>
+							<ControlGroupOption Id="37126" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37126" Flags="24" HideFlags="128" Caption="To Geometrier"/>
+						</Group>
+						<Group Id="37131" IconId="-1" Caption="Gruppe Parametri" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37131" HideFlags="128" Caption="Ens R&amp;adius" TooltipText="Ens Radius" DescriptionText="Ens Radius"/>
+								<Control Class="CXTPControlButton" Id="37132" HideFlags="128" Caption="Ens L&amp;ængde" TooltipText="Ens Længde" DescriptionText="Ens Længde"/>
+								<Control Class="CXTPControlButton" Id="37133" HideFlags="128" Caption="Para&amp;llel" TooltipText="Parallel" DescriptionText="Parallel"/>
+								<Control Class="CXTPControlButton" Id="37134" HideFlags="128" Caption="&amp;Koncentrisk " TooltipText="Koncentrisk " DescriptionText="Koncentrisk "/>
+								<Control Class="CXTPControlButton" Id="37135" HideFlags="128" Caption="&amp;Midt Punkt" TooltipText="Midt Punkt" DescriptionText="Midt Punkt"/>
+							</Controls>
+							<ControlGroupOption Id="37131" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37131" Flags="24" HideFlags="128" Caption="Gruppe Parametri"/>
+						</Group>
+						<Group Id="37136" IconId="-1" Caption="Specielle Funktioner" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37136" HideFlags="128" Caption="&amp;Opret Gruppe" TooltipText="Opret Gruppe" DescriptionText="Opret Gruppe"/>
+								<Control Class="CXTPControlButton" Id="37137" HideFlags="128" Caption="Træ&amp;k" TooltipText="Træk" DescriptionText="Træk"/>
+								<Control Class="CXTPControlButton" Id="37138" HideFlags="128" Caption="Variabel Z_Højde for Geometri" TooltipText="Variabel Z_Højde for Geometri" DescriptionText="Variabel Z_Højde for Geometri"/>
+								<Control Class="CXTPControlButton" Id="37156" HideFlags="128" Caption="Opdater Værktøjsbaner Automatisk" TooltipText="Opdater Værktøjsbaner Automatisk" DescriptionText="Opdater Værktøjsbaner Automatisk"/>
+								<Control Class="CXTPControlButton" Id="37139" HideFlags="128" Caption="&amp;Vis Relationer" TooltipText="Vis Relationer" DescriptionText="Vis Relationer"/>
+								<Control Class="CXTPControlButton" Id="37140" HideFlags="128" Caption="P&amp;osition for Planer" TooltipText="Position for Planer" DescriptionText="Position for Planer"/>
+							</Controls>
+							<ControlGroupOption Id="37136" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37136" Flags="24" HideFlags="128" Caption="Specielle Funktioner"/>
+						</Group>
+						<Group Id="37141" IconId="-1" Caption="Slet Alle" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37141" HideFlags="128" Caption="&amp;Relationer" TooltipText="Relationer" DescriptionText="Relationer"/>
+								<Control Class="CXTPControlButton" Id="37142" HideFlags="128" Caption="Relationer og &amp;Variabler" TooltipText="Relationer og Variabler" DescriptionText="Relationer og Variabler"/>
+							</Controls>
+							<ControlGroupOption Id="37141" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37141" Flags="24" HideFlags="128" Caption="Slet Alle"/>
+						</Group>
+						<Group Id="37143" IconId="-1" Caption="Auto Relationer" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37143" HideFlags="128" Caption="Alle..." TooltipText="Alle" DescriptionText="Alle"/>
+								<Control Class="CXTPControlButton" Id="37144" HideFlags="128" Caption="Akt&amp;uel Plan..." TooltipText="Aktuel Plan" DescriptionText="Aktuel Plan"/>
+								<Control Class="CXTPControlButton" Id="37145" HideFlags="128" Caption="Valgte..." TooltipText="Valgte" DescriptionText="Valgte"/>
+							</Controls>
+							<ControlGroupOption Id="37143" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37143" Flags="24" HideFlags="128" Caption="Auto Relationer"/>
+						</Group>
+						<Group Id="37146" IconId="-1" Caption="Variabel og Formel Kontrol" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="37146" HideFlags="128" Caption="Rediger Variabler" TooltipText="Rediger Variabler" DescriptionText="Rediger Variabler"/>
+								<Control Class="CXTPControlButton" Id="37147" HideFlags="128" Caption="&amp;Ny Variabel..." TooltipText="Ny Variabel" DescriptionText="Ny Variabel"/>
+								<Control Class="CXTPControlButton" Id="37148" HideFlags="128" Caption="Ny Formel" TooltipText="Ny Formel" DescriptionText="Ny Formel"/>
+								<Control Class="CXTPControlButton" Id="37149" HideFlags="128" Caption="Vis alle Parametre" TooltipText="Vis alle Parametre" DescriptionText="Vis alle Parametre"/>
+								<Control Class="CXTPControlButton" Id="37150" HideFlags="128" Caption="Vis alle Formler" TooltipText="Vis alle Formler" DescriptionText="Vis alle Formler"/>
+								<Control Class="CXTPControlButton" Id="37151" HideFlags="128" Caption="Importér Variabler" TooltipText="Importér Variabler" DescriptionText="Importér Variabler"/>
+								<Control Class="CXTPControlButton" Id="37152" HideFlags="128" Caption="&amp;Importer Parametrisk Tegning..." TooltipText="Importer Parametrisk Tegning" DescriptionText="Importer Parametrisk Tegning"/>
+							</Controls>
+							<ControlGroupOption Id="37146" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="37146" Flags="24" HideFlags="128" Caption="Variabel og Formel Kontrol"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Solid Model &amp;Udtræk " Id="36865" Visible="0">
+					<Groups>
+						<Group Id="36865" IconId="-1" Caption="Automatisk" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36865" HideFlags="128" Caption="&amp;Automatisk..." TooltipText="Automatisk" DescriptionText="Automatisk"/>
+							</Controls>
+							<ControlGroupOption Id="36865" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36865" Flags="24" HideFlags="128" Caption="Automatisk"/>
+						</Group>
+						<Group Id="36866" IconId="-1" Caption="Huller" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36866" HideFlags="128" Caption="Huller for &amp;Boring" TooltipText="Huller for Boring" DescriptionText="Huller for Boring"/>
+								<Control Class="CXTPControlButton" Id="36867" HideFlags="128" Caption="Udtræk Undersænkning" TooltipText="Udtræk Undersænkning" DescriptionText="Udtræk Undersænkning"/>
+							</Controls>
+							<ControlGroupOption Id="36866" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36866" Flags="24" HideFlags="128" Caption="Huller"/>
+						</Group>
+						<Group Id="36868" IconId="-1" Caption="Konturer og Kanter" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36868" HideFlags="128" Caption="&amp;Kontur af valgte Kanter" TooltipText="Kontur af valgte Kanter" DescriptionText="Kontur af valgte Kanter"/>
+								<Control Class="CXTPControlButton" Id="36869" HideFlags="128" Caption="Kontur omkring valgte flader" TooltipText="Kontur omkring valgte flader" DescriptionText="Kontur omkring valgte flader"/>
+								<Control Class="CXTPControlButton" Id="36870" HideFlags="128" Caption="Kontur gennem Aktivt Plan" TooltipText="Kontur gennem Aktivt Plan" DescriptionText="Kontur gennem Aktivt Plan"/>
+								<Control Class="CXTPControlButton" Id="36875" HideFlags="128" Caption="3D &amp;Kant" TooltipText="3D Kant" DescriptionText="3D Kant"/>
+								<Control Class="CXTPControlButton" Id="36874" HideFlags="128" Caption="&amp;Z_Højde Sektion" TooltipText="Z_Højde Sektion" DescriptionText="Z_Højde Sektion"/>
+								<Control Class="CXTPControlButton" Id="36877" HideFlags="128" Caption="Konturer af Forlængede Kanter" TooltipText="Konturer af Forlængede Kanter" DescriptionText="Konturer af Forlængede Kanter"/>
+							</Controls>
+							<ControlGroupOption Id="36868" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36868" Flags="24" HideFlags="128" Caption="Konturer og Kanter"/>
+						</Group>
+						<Group Id="36871" IconId="-1" Caption="Savning" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36871" HideFlags="128" Caption="Kant for Savning" TooltipText="Kant for Savning" DescriptionText="Kant for Savning"/>
+							</Controls>
+							<ControlGroupOption Id="36871" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36871" Flags="24" HideFlags="128" Caption="Savning"/>
+						</Group>
+						<Group Id="36872" IconId="-1" Caption="Surfaces" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36872" HideFlags="128" Caption="3D Surfaces fra Model Flader" TooltipText="3D Surfaces fra Model Flader" DescriptionText="3D Surfaces fra Model Flader"/>
+							</Controls>
+							<ControlGroupOption Id="36872" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36872" Flags="24" HideFlags="128" Caption="Surfaces"/>
+						</Group>
+						<Group Id="36876" IconId="-1" Caption="Yderkanter" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36876" HideFlags="128" Caption="3D Kant som omrids af Flader" TooltipText="3D Kant som omrids af Flader" DescriptionText="3D Kant som omrids af Flader"/>
+								<Control Class="CXTPControlButton" Id="36878" HideFlags="128" Caption="Konturer af Solid" TooltipText="Konturer af Solid" DescriptionText="Konturer af Solid"/>
+								<Control Class="CXTPControlButton" Id="36879" HideFlags="128" Caption="Konturlinie langs Z" TooltipText="Konturlinie langs Z" DescriptionText="Konturlinie langs Z"/>
+								<Control Class="CXTPControlButton" Id="36873" HideFlags="128" Caption="&amp;Projicer Omrids af Flade til aktiv Plan" TooltipText="Projicer Omrids af Flade til aktiv Plan" DescriptionText="Projicer Omrids af Flade til aktiv Plan"/>
+							</Controls>
+							<ControlGroupOption Id="36876" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36876" Flags="24" HideFlags="128" Caption="Yderkanter"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Soli&amp;d Model Utilities" Id="36886" Visible="0">
+					<Groups>
+						<Group Id="36886" IconId="-1" Caption="Indretning" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36886" HideFlags="128" Caption="&amp;Auto Indret Part" TooltipText="Auto Indret Part" DescriptionText="Auto Indret Part"/>
+								<Control Class="CXTPControlButton" Id="36887" HideFlags="128" Caption="&amp;Ret Part Ind" TooltipText="Ret Part Ind" DescriptionText="Ret Part Ind"/>
+								<Control Class="CXTPControlButton" Id="36896" HideFlags="128" Caption="Auto Indret Drejet Emne" TooltipText="Auto Indret Drejet Emne" DescriptionText="Auto Indret Drejet Emne"/>
+								<Control Class="CXTPControlButton" Id="36897" HideFlags="128" Caption="Indret Drejet Emne" TooltipText="Indret Drejet Emne" DescriptionText="Indret Drejet Emne"/>
+							</Controls>
+							<ControlGroupOption Id="36886" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36886" Flags="24" HideFlags="128" Caption="Indretning"/>
+						</Group>
+						<Group Id="36881" IconId="-1" Caption="Hul Værktøjer" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36881" HideFlags="128" Caption="Luk &amp;Huller" TooltipText="Luk Huller" DescriptionText="Luk Huller"/>
+								<Control Class="CXTPControlButton" Id="36883" HideFlags="128" Caption="&amp;Fjern konturer defineret som Huller" TooltipText="Fjern konturer defineret som Huller" DescriptionText="Fjern konturer defineret som Huller"/>
+							</Controls>
+							<ControlGroupOption Id="36881" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36881" Flags="24" HideFlags="128" Caption="Hul Værktøjer"/>
+						</Group>
+						<Group Id="36880" IconId="-1" Caption="Værktøjer" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36880" HideFlags="128" Caption="&amp;Offset Flader" TooltipText="Offset Flader" DescriptionText="Offset Flader"/>
+								<Control Class="CXTPControlButton" Id="36882" HideFlags="128" Caption="Opret Omsluttet 3D Volume" TooltipText="Opret Omsluttet 3D Volume" DescriptionText="Opret Omsluttet 3D Volume"/>
+								<Control Class="CXTPControlButton" Id="36884" HideFlags="128" Caption="Redefiner &amp;Z_Højder for Geometri " TooltipText="Redefiner Z_Højder for Geometri " DescriptionText="Redefiner Z_Højder for Geometri "/>
+								<Control Class="CXTPControlButton" Id="36885" HideFlags="128" Caption="Sæt &amp;View Vinkelret til Flade" TooltipText="Sæt View Vinkelret til Flade" DescriptionText="Sæt View Vinkelret til Flade"/>
+								<Control Class="CXTPControlButton" Id="36890" HideFlags="128" Caption="Flade/Kant/Punkt &amp;Detaljer" TooltipText="Flade/Kant/Punkt Detaljer" DescriptionText="Flade/Kant/Punkt Detaljer"/>
+								<Control Class="CXTPControlButton" Id="36891" HideFlags="128" Caption="&amp;Kontroller/Reparér Part" TooltipText="Kontroller/Reparér Part" DescriptionText="Kontroller/Reparér Part"/>
+							</Controls>
+							<ControlGroupOption Id="36880" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36880" Flags="24" HideFlags="128" Caption="Værktøjer"/>
+						</Group>
+						<Group Id="36888" IconId="-1" Caption="Flade Værktøjer" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36888" HideFlags="128" Caption="Angiv &amp;Farve for Flader" TooltipText="Angiv Farve for Flader" DescriptionText="Angiv Farve for Flader"/>
+								<Control Class="CXTPControlButton" Id="36889" HideFlags="128" Caption="&amp;Farvelæg Flader" TooltipText="Farvelæg Flader" DescriptionText="Farvelæg Flader"/>
+							</Controls>
+							<ControlGroupOption Id="36888" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36888" Flags="24" HideFlags="128" Caption="Flade Værktøjer"/>
+						</Group>
+						<Group Id="36893" IconId="-1" Caption="Indstillinger" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="36893" HideFlags="128" Caption="Feature &amp;Udtræk..." TooltipText="Feature Udtræk" DescriptionText="Feature Udtræk"/>
+							</Controls>
+							<ControlGroupOption Id="36893" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="36893" Flags="24" HideFlags="128" Caption="Indstillinger"/>
+						</Group>
+					</Groups>
+				</Tab>
+				<Tab Caption="Automations Manager" Id="39700" Visible="0">
+					<Groups>
+						<Group Id="39700" IconId="-1" Caption="Automations Manager" ControlsCentering="1">
+							<Controls>
+								<Control Class="CXTPControlButton" Id="39700" HideFlags="128" Caption="Automations Manager" TooltipText="Automations Manager" DescriptionText="Automations Manager"/>
+								<Control Class="CXTPControlButton" Id="39701" HideFlags="128" Caption="Automations Manager Support" TooltipText="Automations Manager Support" DescriptionText="Automations Manager Support"/>
+								<Control Class="CXTPControlButton" Id="39707" HideFlags="128" Caption="Importer Database fra Skabelon til Lag" TooltipText="Importer Database fra Skabelon til Lag" DescriptionText="Importer Database fra Skabelon til Lag"/>
+								<Control Class="CXTPControlButton" Id="39708" HideFlags="128" Caption="Hjælp Automations Manager " TooltipText="Hjælp Automations Manager " DescriptionText="Hjælp Automations Manager "/>
+							</Controls>
+							<ControlGroupOption Id="39700" Flags="16" HideFlags="129"/>
+							<ControlGroupPopup Type="3" Id="39700" Flags="24" HideFlags="128" Caption="Automations Manager"/>
+						</Group>
+					</Groups>
+				</Tab>
+			</Tabs>
+			<QuickAccessControls>
+				<Control Class="CXTPControlButton" Id="33131" Caption="Ny" TooltipText="Ny" DescriptionText="Lav ny tegning"/>
+				<Control Class="CXTPControlButton" Id="57601" Caption="Åbn" TooltipText="Åbn" DescriptionText="Åbn eksisterende AlphaCAM tegning"/>
+				<Control Class="CXTPControlButton" Id="33132" Caption="Gem" TooltipText="Gem" DescriptionText="Gem nuv. tegning"/>
+				<Control Class="CXTPControlButton" Id="57643" Caption="Fortryd: " TooltipText="Fortryd: " DescriptionText="Fortryd: "/>
+				<Control Class="CXTPControlButton" Id="57644" Caption="Annuller Fortryd: " TooltipText="Annuller Fortryd: " DescriptionText="Annuller Fortryd"/>
+				<Control Class="CXTPControlButton" Id="32863" Caption="Rens &amp;Hukommelse" TooltipText="Rens Hukommelse" DescriptionText="Clear alt el. del af tegning"/>
+				<Control Class="CXTPControlButton" Id="32929" Caption="&amp;Déaktiver Plan" TooltipText="Déaktiver Plan" DescriptionText="Déaktiver Plan"/>
+				<Control Class="CXTPControlButton" Id="32888" Caption="3D Views" TooltipText="3D Views" DescriptionText="3D Views"/>
+				<Control Class="CXTPControlButton" Id="36893" Caption="Feature Udtræk" TooltipText="Feature Udtræk" DescriptionText="Feature Udtræk"/>
+				<Control Class="CXTPControlButton" Id="32771" Caption="Zoom Alt" TooltipText="Zoom Alt" DescriptionText="Zoom Alt"/>
+				<Control Class="CXTPControlButton" Id="32772" Caption="Zoom Vindue" TooltipText="Zoom Vindue" DescriptionText="Zoom Vindue"/>
+				<Control Class="CXTPControlButton" Id="33186" Caption="Opdatér Værktøjsbaner" TooltipText="Opdatér Værktøjsbaner" DescriptionText="Opdatér Værktøjsbaner"/>
+			</QuickAccessControls>
+		</CommandBar>
+		<CommandBar Class="CXTPRibbonBackstageView" Position="7" BarID="16777216" Style="4194304" MRUWidth="32767">
+			<Controls>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="33131" Caption="Ny" TooltipText="Ny" DescriptionText="Lav ny tegning"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="57601" Caption="Åbn" TooltipText="Åbn" DescriptionText="Åbn eksisterende AlphaCAM tegning"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="33132" Caption="Gem" TooltipText="Gem" DescriptionText="Gem nuv. tegning"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="33133" Caption="Gem som" TooltipText="Gem som" DescriptionText="Gem nuv. tegning med nyt navn"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="57607" Caption="Udskriv" TooltipText="Udskriv" DescriptionText="Udskriv til Printer el. Plotter"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="57609" Caption="Vis Udskrift" TooltipText="Vis Udskrift" DescriptionText="Vis Udskrift"/>
+				<Control Class="CXTPRibbonBackstageTab" Type="0" Id="50024" Flags="8" Caption="Seneste" DefaultItem="1"/>
+				<Control Class="CXTPRibbonBackstageTab" Type="0" Id="50025" Flags="8" Caption="&amp;Hjælp"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="50016" Caption="Tilpas"/>
+				<Control Class="CXTPRibbonBackstageCommand" Type="0" Id="57665" Caption="EXIT" TooltipText="EXIT" DescriptionText="EXIT"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777217" Style="4194304" Title="Konfigurér ">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33337" Caption="&amp;Generelt..." TooltipText="&amp;Generelt..."/>
+				<Control Class="CXTPControlButton" Id="33338" Caption="System &amp;Mapper..." TooltipText="System &amp;Mapper..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777218" Style="4194304" Title="Faner i Projekt Manager">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33632" Caption="Lag (AlphaCAM/Bruger)" TooltipText="Lag (AlphaCAM/Bruger)"/>
+				<Control Class="CXTPControlButton" Id="33633" Caption="Operationer" TooltipText="Operationer"/>
+				<Control Class="CXTPControlButton" Id="33634" Caption="Plan" TooltipText="Plan"/>
+				<Control Class="CXTPControlButton" Id="33635" Caption="Skabeloner" TooltipText="Skabeloner"/>
+				<Control Class="CXTPControlButton" Id="33793" Caption="Simulation" TooltipText="Simulation"/>
+				<Control Class="CXTPControlButton" Id="33829" Caption="Multibore Enhed" TooltipText="Multibore Enhed"/>
+				<Control Class="CXTPControlButton" Id="33704" BeginGroup="1" Caption="Vis Alle Sider" TooltipText="Vis Alle Sider"/>
+				<Control Class="CXTPControlButton" Id="33705" Caption="Skjul Alle Sider" TooltipText="Skjul Alle Sider"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777219" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32778" Caption="V&amp;is Værktøjsretninger" TooltipText="V&amp;is Værktøjsretninger" ShortcutTextAuto="Ctrl+G"/>
+				<Control Class="CXTPControlButton" Id="32858" Caption="Vis &amp;Værktøjer" TooltipText="Vis &amp;Værktøjer"/>
+				<Control Class="CXTPControlButton" Id="32779" Caption="Vis &amp;Materiale" TooltipText="Vis &amp;Materiale"/>
+				<Control Class="CXTPControlButton" Id="32855" Caption="&amp;Enkelt Step" TooltipText="&amp;Enkelt Step"/>
+				<Control Class="CXTPControlButton" Id="33794" Caption="Vis Geometri Ilgange" TooltipText="Vis Geometri Ilgange"/>
+				<Control Class="CXTPControlButton" Id="33795" Caption="Vis Værktøjs &amp;Ilgange" TooltipText="Vis Værktøjs &amp;Ilgange"/>
+				<Control Class="CXTPControlButton" Id="33517" Caption="Vis pile på værktøjsbaner" TooltipText="Vis pile på værktøjsbaner"/>
+				<Control Class="CXTPControlButton" Id="33503" Caption="Vis Ilgange Hvide" TooltipText="Vis Ilgange Hvide"/>
+				<Control Class="CXTPControlButton" Id="33617" Caption="Vis So&amp;lid som Linier" TooltipText="Vis So&amp;lid som Linier"/>
+				<Control Class="CXTPControlButton" Id="33630" Caption="Vis Værktøjs &amp;Holder" TooltipText="Vis Værktøjs &amp;Holder"/>
+				<Control Class="CXTPControlButton" Id="33618" Caption="Vis Materiale og Fi&amp;xturer som Solider" TooltipText="Vis Materiale og Fi&amp;xturer som Solider"/>
+				<Control Class="CXTPControlButton" Id="32857" Caption="Vis brud af linier" TooltipText="Vis brud af linier"/>
+				<Control Class="CXTPControlButton" Id="33472" Caption="&amp;Brugerdefineret Kode" TooltipText="&amp;Brugerdefineret Kode"/>
+				<Control Class="CXTPControlButton" Id="33467" Caption="Vis værktøjs vinkler" TooltipText="Vis værktøjs vinkler"/>
+				<Control Class="CXTPControlButton" Id="33719" Caption="Medtag Nulpunkt i Zoom Alt" TooltipText="Medtag Nulpunkt i Zoom Alt"/>
+				<Control Class="CXTPControlButton" Id="33786" Caption="Tegn Surfaces i lagets Farve" TooltipText="Tegn Surfaces i lagets Farve"/>
+				<Control Class="CXTPControlButton" Id="33812" Caption="Vis Modificeret Fremføring" TooltipText="Vis Modificeret Fremføring"/>
+				<Control Class="CXTPControlButton" Id="33821" Caption="Anvend Operations Farver" TooltipText="Anvend Operations Farver"/>
+				<Control Class="CXTPControlButton" Id="33579" Caption="Vis Underfræsning" TooltipText="Vis Underfræsning"/>
+				<Control Class="CXTPControlButton" Id="33831" Caption="&amp;Render Udtrukne Geometrier" TooltipText="&amp;Render Udtrukne Geometrier"/>
+				<Control Class="CXTPControlButton" Id="33832" Caption="Render Geometrier med &amp;Z_Niveau" TooltipText="Render Geometrier med &amp;Z_Niveau"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777220" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33620" Caption="&amp;XY" TooltipText="&amp;XY"/>
+				<Control Class="CXTPControlButton" Id="33625" Caption="&amp;YZ" TooltipText="&amp;YZ"/>
+				<Control Class="CXTPControlButton" Id="33626" Caption="X&amp;Z" TooltipText="X&amp;Z"/>
+				<Control Class="CXTPControlButton" Id="33621" Caption="&amp;Iso" TooltipText="&amp;Iso"/>
+				<Control Class="CXTPControlButton" Id="33774" Caption="&amp;Horisontal ISO 1" TooltipText="&amp;Horisontal ISO 1"/>
+				<Control Class="CXTPControlButton" Id="33775" Caption="H&amp;orisontal ISO 2" TooltipText="H&amp;orisontal ISO 2"/>
+				<Control Class="CXTPControlPopup" Type="2" Id="0" Caption="Navngivne Views" CommandBarId="16777221"/>
+				<Control Class="CXTPControlButton" Id="33684" Caption="&amp;Front" TooltipText="&amp;Front"/>
+				<Control Class="CXTPControlButton" Id="33685" Caption="&amp;Bag" TooltipText="&amp;Bag"/>
+				<Control Class="CXTPControlButton" Id="33686" Caption="&amp;Venstre" TooltipText="&amp;Venstre"/>
+				<Control Class="CXTPControlButton" Id="33687" Caption="&amp;Højre" TooltipText="&amp;Højre"/>
+				<Control Class="CXTPControlButton" Id="33688" Caption="&amp;Top" TooltipText="&amp;Top"/>
+				<Control Class="CXTPControlButton" Id="33689" Caption="&amp;Bund" TooltipText="&amp;Bund"/>
+				<Control Class="CXTPControlButton" Id="33627" Caption="&amp;Vinkelret til Plan" TooltipText="&amp;Vinkelret til Plan"/>
+				<Control Class="CXTPControlButton" Id="33628" Caption="&amp;Plan" TooltipText="&amp;Plan"/>
+				<Control Class="CXTPControlPopup" Type="2" Id="0" Caption="Named Views" CommandBarId="16777222"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777221" Style="4194304"/>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777222" Style="4194304"/>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777223" Style="4194304" Title="Redigér 3D Overflade">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33026" Caption="&amp;Bryd skærende Overflader" TooltipText="&amp;Bryd skærende Overflader"/>
+				<Control Class="CXTPControlButton" Id="33027" Caption="&amp;Redigér kontrolpunkter for Overflader" TooltipText="&amp;Redigér kontrolpunkter for Overflader"/>
+				<Control Class="CXTPControlButton" Id="33019" Caption="&amp;Un-Trim Overflade" TooltipText="&amp;Un-Trim Overflade"/>
+				<Control Class="CXTPControlButton" Id="33353" Caption="&amp;Forlæng Overflade" TooltipText="&amp;Forlæng Overflade"/>
+				<Control Class="CXTPControlButton" Id="33594" Caption="Udtræk kanter af Overflade..." TooltipText="Udtræk kanter af Overflade..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777224" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32921" Caption="&amp;Vis/Rediger Værktøjsbaner" TooltipText="&amp;Vis/Rediger Værktøjsbaner"/>
+				<Control Class="CXTPControlButton" Id="32920" Caption="&amp;Redigér Ilgange" TooltipText="&amp;Redigér Ilgange"/>
+				<Control Class="CXTPControlButton" Id="32914" Caption="&amp;Støtteflige..." TooltipText="&amp;Støtteflige..."/>
+				<Control Class="CXTPControlButton" Id="32915" Caption="&amp;Fjern støtteflige" TooltipText="&amp;Fjern støtteflige"/>
+				<Control Class="CXTPControlButton" Id="33167" Caption="&amp;Langsom omkring Hjørner..." TooltipText="&amp;Langsom omkring Hjørner..."/>
+				<Control Class="CXTPControlButton" Id="33525" Caption="&amp;Redigér Fremføring" TooltipText="&amp;Redigér Fremføring"/>
+				<Control Class="CXTPControlButton" Id="33168" Caption="&amp;Redigér Z Punkt for Punkt" TooltipText="&amp;Redigér Z Punkt for Punkt"/>
+				<Control Class="CXTPControlButton" Id="33466" Caption="Redigér værktøj &amp;Vinkel" TooltipText="Redigér værktøj &amp;Vinkel"/>
+				<Control Class="CXTPControlButton" Id="33587" Caption="Redigér &amp;5-Akset Værktøjsbane" TooltipText="Redigér &amp;5-Akset Værktøjsbane"/>
+				<Control Class="CXTPControlButton" Id="33595" Caption="Konvertér Værktøjsvinkel..." TooltipText="Konvertér Værktøjsvinkel..."/>
+				<Control Class="CXTPControlButton" Id="33713" Caption="Konverter 3D Værktøjsbaner til Helicale Buer..." TooltipText="Konverter 3D Værktøjsbaner til Helicale Buer..."/>
+				<Control Class="CXTPControlButton" Id="33723" Caption="Udjævn 5_Akset Værktøjsbane" TooltipText="Udjævn 5_Akset Værktøjsbane"/>
+				<Control Class="CXTPControlButton" Id="33527" Caption="Sæt Startpunkt(er) for Lommefræsning" TooltipText="Sæt Startpunkt(er) for Lommefræsning"/>
+				<Control Class="CXTPControlButton" Id="33101" Caption="&amp;Omvend Fræseretning" TooltipText="&amp;Omvend Fræseretning"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777225" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33721" Caption="Definer Clamps/Fixturer" TooltipText="Definer Clamps/Fixturer"/>
+				<Control Class="CXTPControlButton" Id="33707" Caption="Flyt Clamps/Fixturer" TooltipText="Flyt Clamps/Fixturer"/>
+				<Control Class="CXTPControlButton" Id="33822" Caption="Bevægelige Clamps" TooltipText="Bevægelige Clamps"/>
+				<Control Class="CXTPControlButton" Id="33734" Caption="Angiv Udgangs position" TooltipText="Angiv Udgangs position"/>
+				<Control Class="CXTPControlButton" Id="33837" Caption="Sæt Startpositioner Automatisk" TooltipText="Sæt Startpositioner Automatisk"/>
+				<Control Class="CXTPControlButton" Id="33743" Caption="Husk Nuværende Positioner" TooltipText="Husk Nuværende Positioner"/>
+				<Control Class="CXTPControlButton" Id="33737" Caption="Rediger Clamps/Fixturer" TooltipText="Rediger Clamps/Fixturer"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777226" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33778" Caption="&amp;Åbn Maskine..." TooltipText="&amp;Åbn Maskine..."/>
+				<Control Class="CXTPControlButton" Id="33777" Caption="&amp;Gem Maskine..." TooltipText="&amp;Gem Maskine..."/>
+				<Control Class="CXTPControlButton" Id="33779" Caption="&amp;Fjern Maskine" TooltipText="&amp;Fjern Maskine"/>
+				<Control Class="CXTPControlButton" Id="33782" Caption="Sæt &amp;Forvalgt Maskine..." TooltipText="Sæt &amp;Forvalgt Maskine..."/>
+				<Control Class="CXTPControlButton" Id="33783" Caption="&amp;Nulstil Forvalgt Maskine" TooltipText="&amp;Nulstil Forvalgt Maskine"/>
+				<Control Class="CXTPControlButton" Id="33767" Caption="&amp;Maskin Konfiguration..." TooltipText="&amp;Maskin Konfiguration..."/>
+				<Control Class="CXTPControlButton" Id="33768" BeginGroup="1" Caption="&amp;Definer Maskin Komponent" TooltipText="&amp;Definer Maskin Komponent"/>
+				<Control Class="CXTPControlButton" Id="33770" Caption="Sæt &amp;Værktøjets Udgangsposition" TooltipText="Sæt &amp;Værktøjets Udgangsposition"/>
+				<Control Class="CXTPControlButton" Id="33830" Caption="Sæt Borekasse Position" TooltipText="Sæt Borekasse Position"/>
+				<Control Class="CXTPControlButton" Id="33813" Caption="Angiv Slave &amp;Hoved Positioner" TooltipText="Angiv Slave &amp;Hoved Positioner"/>
+				<Control Class="CXTPControlButton" Id="33814" Caption="Slet Slave Hoved Positioner" TooltipText="Slet Slave Hoved Positioner"/>
+				<Control Class="CXTPControlButton" Id="33769" Caption="Definer &amp;Akser" TooltipText="Definer &amp;Akser"/>
+				<Control Class="CXTPControlButton" Id="33776" BeginGroup="1" Caption="Sæt &amp;Sikkerheds Område" TooltipText="Sæt &amp;Sikkerheds Område"/>
+				<Control Class="CXTPControlButton" Id="33780" Caption="Flyt &amp;Emne" TooltipText="Flyt &amp;Emne"/>
+				<Control Class="CXTPControlButton" Id="33781" Caption="&amp;Roter Emne" TooltipText="&amp;Roter Emne"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777227" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33337" Caption="&amp;Generelt..." TooltipText="&amp;Generelt..."/>
+				<Control Class="CXTPControlButton" Id="33338" Caption="System &amp;Mapper..." TooltipText="System &amp;Mapper..."/>
+				<Control Class="CXTPControlButton" Id="36893" BeginGroup="1" Caption="Feature &amp;Udtræk..." TooltipText="Feature &amp;Udtræk..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777228" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32930" Caption="Definér &amp;Ny Font" TooltipText="Definér &amp;Ny Font"/>
+				<Control Class="CXTPControlButton" Id="32931" Caption="&amp;Hent font for redigering..." TooltipText="&amp;Hent font for redigering..."/>
+				<Control Class="CXTPControlButton" Id="32932" Caption="&amp;Gem Nuværende Font..." TooltipText="&amp;Gem Nuværende Font..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777229" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33620" Caption="&amp;XY" TooltipText="&amp;XY"/>
+				<Control Class="CXTPControlButton" Id="33625" Caption="&amp;YZ" TooltipText="&amp;YZ"/>
+				<Control Class="CXTPControlButton" Id="33626" Caption="X&amp;Z" TooltipText="X&amp;Z"/>
+				<Control Class="CXTPControlButton" Id="33621" Caption="&amp;Iso" TooltipText="&amp;Iso"/>
+				<Control Class="CXTPControlButton" Id="33774" Caption="&amp;Horisontal ISO 1" TooltipText="&amp;Horisontal ISO 1"/>
+				<Control Class="CXTPControlButton" Id="33775" Caption="H&amp;orisontal ISO 2" TooltipText="H&amp;orisontal ISO 2"/>
+				<Control Class="CXTPControlPopup" Type="2" Id="0" Caption="Navngivne Views" CommandBarId="16777230"/>
+				<Control Class="CXTPControlButton" Id="33684" Caption="&amp;Front" TooltipText="&amp;Front"/>
+				<Control Class="CXTPControlButton" Id="33685" Caption="&amp;Bag" TooltipText="&amp;Bag"/>
+				<Control Class="CXTPControlButton" Id="33686" Caption="&amp;Venstre" TooltipText="&amp;Venstre"/>
+				<Control Class="CXTPControlButton" Id="33687" Caption="&amp;Højre" TooltipText="&amp;Højre"/>
+				<Control Class="CXTPControlButton" Id="33688" Caption="&amp;Top" TooltipText="&amp;Top"/>
+				<Control Class="CXTPControlButton" Id="33689" Caption="&amp;Bund" TooltipText="&amp;Bund"/>
+				<Control Class="CXTPControlButton" Id="33627" Caption="&amp;Vinkelret til Plan" TooltipText="&amp;Vinkelret til Plan"/>
+				<Control Class="CXTPControlButton" Id="33628" Caption="&amp;Plan" TooltipText="&amp;Plan"/>
+				<Control Class="CXTPControlPopup" Type="2" Id="0" Caption="Named Views" CommandBarId="16777231"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777230" Style="4194304"/>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777231" Style="4194304"/>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777232" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32778" Caption="V&amp;is Værktøjsretninger" TooltipText="V&amp;is Værktøjsretninger" ShortcutTextAuto="Ctrl+G"/>
+				<Control Class="CXTPControlButton" Id="32858" Caption="Vis &amp;Værktøjer" TooltipText="Vis &amp;Værktøjer"/>
+				<Control Class="CXTPControlButton" Id="32779" Caption="Vis &amp;Materiale" TooltipText="Vis &amp;Materiale"/>
+				<Control Class="CXTPControlButton" Id="32855" Caption="&amp;Enkelt Step" TooltipText="&amp;Enkelt Step"/>
+				<Control Class="CXTPControlButton" Id="33794" Caption="Vis Geometri Ilgange" TooltipText="Vis Geometri Ilgange"/>
+				<Control Class="CXTPControlButton" Id="33795" Caption="Vis Værktøjs &amp;Ilgange" TooltipText="Vis Værktøjs &amp;Ilgange"/>
+				<Control Class="CXTPControlButton" Id="33517" Caption="Vis pile på værktøjsbaner" TooltipText="Vis pile på værktøjsbaner"/>
+				<Control Class="CXTPControlButton" Id="33503" Caption="Vis Ilgange Hvide" TooltipText="Vis Ilgange Hvide"/>
+				<Control Class="CXTPControlButton" Id="33617" Caption="Vis So&amp;lid som Linier" TooltipText="Vis So&amp;lid som Linier"/>
+				<Control Class="CXTPControlButton" Id="33630" Caption="Vis Værktøjs &amp;Holder" TooltipText="Vis Værktøjs &amp;Holder"/>
+				<Control Class="CXTPControlButton" Id="33618" Caption="Vis Materiale og Fi&amp;xturer som Solider" TooltipText="Vis Materiale og Fi&amp;xturer som Solider"/>
+				<Control Class="CXTPControlButton" Id="32857" Caption="Vis brud af linier" TooltipText="Vis brud af linier"/>
+				<Control Class="CXTPControlButton" Id="33472" Caption="&amp;Brugerdefineret Kode" TooltipText="&amp;Brugerdefineret Kode"/>
+				<Control Class="CXTPControlButton" Id="33467" Caption="Vis værktøjs vinkler" TooltipText="Vis værktøjs vinkler"/>
+				<Control Class="CXTPControlButton" Id="33719" Caption="Medtag Nulpunkt i Zoom Alt" TooltipText="Medtag Nulpunkt i Zoom Alt"/>
+				<Control Class="CXTPControlButton" Id="33786" Caption="Tegn Surfaces i lagets Farve" TooltipText="Tegn Surfaces i lagets Farve"/>
+				<Control Class="CXTPControlButton" Id="33812" Caption="Vis Modificeret Fremføring" TooltipText="Vis Modificeret Fremføring"/>
+				<Control Class="CXTPControlButton" Id="33821" Caption="Anvend Operations Farver" TooltipText="Anvend Operations Farver"/>
+				<Control Class="CXTPControlButton" Id="33579" Caption="Vis Underfræsning" TooltipText="Vis Underfræsning"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777233" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33632" Caption="Lag (AlphaCAM/Bruger)" TooltipText="Lag (AlphaCAM/Bruger)"/>
+				<Control Class="CXTPControlButton" Id="33633" Caption="Operationer" TooltipText="Operationer"/>
+				<Control Class="CXTPControlButton" Id="33634" Caption="Plan" TooltipText="Plan"/>
+				<Control Class="CXTPControlButton" Id="33635" Caption="Skabeloner" TooltipText="Skabeloner"/>
+				<Control Class="CXTPControlButton" Id="33793" Caption="Simulation" TooltipText="Simulation"/>
+				<Control Class="CXTPControlButton" Id="33829" Caption="Multibore Enhed" TooltipText="Multibore Enhed"/>
+				<Control Class="CXTPControlButton" Id="33834" Caption="Indsæt" TooltipText="Indsæt"/>
+				<Control Class="CXTPControlButton" Id="39072" Caption="Nesting" TooltipText="Nesting"/>
+				<Control Class="CXTPControlButton" Id="38560" Caption="Parametri" TooltipText="Parametri"/>
+				<Control Class="CXTPControlButton" Id="33704" BeginGroup="1" Caption="Vis Alle Sider" TooltipText="Vis Alle Sider"/>
+				<Control Class="CXTPControlButton" Id="33705" Caption="Skjul Alle Sider" TooltipText="Skjul Alle Sider"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777234" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32797" Caption="Snap &amp;Ende punkt  " TooltipText="Snap &amp;Ende punkt  \tF6" ShortcutTextAuto="F6"/>
+				<Control Class="CXTPControlButton" Id="32798" Caption="Snap &amp;Midt punkt  " TooltipText="Snap &amp;Midt punkt  \tF7" ShortcutTextAuto="F7"/>
+				<Control Class="CXTPControlButton" Id="32799" Caption="Snap Bue-&amp;Center  " TooltipText="Snap Bue-&amp;Center  \tF8" ShortcutTextAuto="F8"/>
+				<Control Class="CXTPControlButton" Id="32800" Caption="Snap &amp;Skæringspunkt  " TooltipText="Snap &amp;Skæringspunkt  \tF9" ShortcutTextAuto="F9"/>
+				<Control Class="CXTPControlButton" Id="32801" Caption="Snap &amp;Tangent  " TooltipText="Snap &amp;Tangent  \tF10" ShortcutTextAuto="F10"/>
+				<Control Class="CXTPControlButton" Id="32802" Caption="Snap Vi&amp;nkelret  " TooltipText="Snap Vi&amp;nkelret  \tF11" ShortcutTextAuto="F11"/>
+				<Control Class="CXTPControlButton" Id="32803" Caption="Snap P&amp;arallel  " TooltipText="Snap P&amp;arallel  \tF12" ShortcutTextAuto="F12"/>
+				<Control Class="CXTPControlButton" Id="33125" Caption="&amp;QUADRANT Punkt" TooltipText="&amp;QUADRANT Punkt"/>
+				<Control Class="CXTPControlButton" Id="33066" BeginGroup="1" Caption="som ENDE-punkt af" TooltipText="som ENDE-punkt af"/>
+				<Control Class="CXTPControlButton" Id="33067" Caption="som MIDT-punkt af" TooltipText="som MIDT-punkt af"/>
+				<Control Class="CXTPControlButton" Id="33068" Caption="som CENTER af" TooltipText="som CENTER af"/>
+				<Control Class="CXTPControlButton" Id="33069" Caption="som SKÆRINGSPUNKT af" TooltipText="som SKÆRINGSPUNKT af"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777235">
+			<Controls>
+				<Control Class="CXTPControlGallery" Type="10" Id="50002" Flags="64" Width="108" Height="72" ShowBorders="0" ShowScrollBar="0"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777236">
+			<Controls>
+				<Control Class="CXTPControlGallery" Type="10" Id="50004" Flags="64" Width="108" Height="108" ShowBorders="0" ShowScrollBar="0"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777237">
+			<Controls>
+				<Control Class="CXTPControlGallery" Type="10" Id="50006" Flags="64" Width="108" Height="108" ShowBorders="0" ShowScrollBar="0"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777238" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32814" Caption="&amp;Punkt" TooltipText="&amp;Punkt"/>
+				<Control Class="CXTPControlButton" Id="32815" Caption="&amp;Kendt Bue" TooltipText="&amp;Kendt Bue"/>
+				<Control Class="CXTPControlButton" Id="32825" Caption="Linie til Linie &amp;afrund" TooltipText="Linie til Linie &amp;afrund"/>
+				<Control Class="CXTPControlButton" Id="32890" Caption="Linie til Linie a&amp;fskæring" TooltipText="Linie til Linie a&amp;fskæring"/>
+				<Control Class="CXTPControlButton" Id="32817" Caption="&amp;Linie til Bue" TooltipText="&amp;Linie til Bue"/>
+				<Control Class="CXTPControlButton" Id="32818" Caption="&amp;Bue til Linie" TooltipText="&amp;Bue til Linie"/>
+				<Control Class="CXTPControlButton" Id="32819" Caption="Bue &amp;til Bue" TooltipText="Bue &amp;til Bue"/>
+				<Control Class="CXTPControlButton" Id="32822" Caption="&amp;Slet Forrige" TooltipText="&amp;Slet Forrige"/>
+				<Control Class="CXTPControlButton" Id="32820" Caption="A&amp;fslut" TooltipText="A&amp;fslut"/>
+				<Control Class="CXTPControlButton" Id="32821" Caption="L&amp;uk og Afslut " TooltipText="L&amp;uk og Afslut \tF4" ShortcutTextAuto="F4"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777239" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33001" Caption="&amp;Lav Spline..." TooltipText="&amp;Lav Spline..."/>
+				<Control Class="CXTPControlButton" Id="33002" Caption="&amp;Redigér Spline" TooltipText="&amp;Redigér Spline"/>
+				<Control Class="CXTPControlButton" Id="33003" Caption="&amp;Angiv rækkefølge for splines" TooltipText="&amp;Angiv rækkefølge for splines"/>
+				<Control Class="CXTPControlButton" Id="33004" Caption="O&amp;mvend Spline" TooltipText="O&amp;mvend Spline"/>
+				<Control Class="CXTPControlButton" Id="33005" Caption="Kon&amp;vert. Spline til Linier/Buer..." TooltipText="Kon&amp;vert. Spline til Linier/Buer..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777240" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33031" Caption="Bukning/Udretning..." TooltipText="Bukning/Udretning..."/>
+				<Control Class="CXTPControlButton" Id="33032" Caption="&amp;Udfoldning..." TooltipText="&amp;Udfoldning..."/>
+				<Control Class="CXTPControlButton" Id="32949" Caption="Punkter til Linier/Buer..." TooltipText="Punkter til Linier/Buer..."/>
+				<Control Class="CXTPControlButton" Id="32948" Caption="&amp;Auto_Luk Konturer..." TooltipText="&amp;Auto_Luk Konturer..."/>
+				<Control Class="CXTPControlButton" Id="32950" Caption="&amp;Saml emner med bro..." TooltipText="&amp;Saml emner med bro..."/>
+				<Control Class="CXTPControlButton" Id="32951" Caption="&amp;Link tilstødende cirkler" TooltipText="&amp;Link tilstødende cirkler"/>
+				<Control Class="CXTPControlButton" Id="39392" Caption="Slet Dobbelt Linier" TooltipText="Slet Dobbelt Linier"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777241" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33360" Caption="&amp;Top" TooltipText="&amp;Top"/>
+				<Control Class="CXTPControlButton" Id="33361" Caption="&amp;Front" TooltipText="&amp;Front"/>
+				<Control Class="CXTPControlButton" Id="33362" Caption="&amp;Højre" TooltipText="&amp;Højre"/>
+				<Control Class="CXTPControlButton" Id="33363" Caption="&amp;Bag" TooltipText="&amp;Bag"/>
+				<Control Class="CXTPControlButton" Id="33364" Caption="&amp;Venstre" TooltipText="&amp;Venstre"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777242" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33026" Caption="&amp;Bryd skærende Overflader" TooltipText="&amp;Bryd skærende Overflader"/>
+				<Control Class="CXTPControlButton" Id="33027" Caption="&amp;Redigér kontrolpunkter for Overflader" TooltipText="&amp;Redigér kontrolpunkter for Overflader"/>
+				<Control Class="CXTPControlButton" Id="33019" Caption="&amp;Un-Trim Overflade" TooltipText="&amp;Un-Trim Overflade"/>
+				<Control Class="CXTPControlButton" Id="33353" Caption="&amp;Forlæng Overflade" TooltipText="&amp;Forlæng Overflade"/>
+				<Control Class="CXTPControlButton" Id="37380" Caption="Konverterer til STL Facetter" TooltipText="Konverterer til STL Facetter"/>
+				<Control Class="CXTPControlButton" Id="33594" Caption="Udtræk kanter af Overflade..." TooltipText="Udtræk kanter af Overflade..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777243" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32889" Caption="Bore-/Gevind &amp;Huller..." TooltipText="Bore-/Gevind &amp;Huller..."/>
+				<Control Class="CXTPControlButton" Id="33597" Caption="Bore-/Gevind Huller, Auto_&amp;Z..." TooltipText="Bore-/Gevind Huller, Auto_&amp;Z..."/>
+				<Control Class="CXTPControlButton" Id="33166" Caption="Fræse Huller..." TooltipText="Fræse Huller..."/>
+				<Control Class="CXTPControlButton" Id="33708" Caption="Fræse Huller &amp;Auto_Z..." TooltipText="Fræse Huller &amp;Auto_Z..."/>
+				<Control Class="CXTPControlButton" Id="33355" Caption="&amp;Lommefræse Huller..." TooltipText="&amp;Lommefræse Huller..."/>
+				<Control Class="CXTPControlButton" Id="33709" Caption="Lomme Huller Au&amp;to_Z..." TooltipText="Lomme Huller Au&amp;to_Z..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777244" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33591" Caption="Anvend Skabelon på valgte Geometrier..." TooltipText="Anvend Skabelon på valgte Geometrier..."/>
+				<Control Class="CXTPControlButton" Id="33583" Caption="Anvend Skabelon på Tildelte Lag..." TooltipText="Anvend Skabelon på Tildelte Lag..."/>
+				<Control Class="CXTPControlButton" Id="33590" Caption="Anvend Skabelon på Valgte Lag..." TooltipText="Anvend Skabelon på Valgte Lag..."/>
+				<Control Class="CXTPControlButton" Id="33584" Caption="&amp;Redigér Skabelon..." TooltipText="&amp;Redigér Skabelon..."/>
+				<Control Class="CXTPControlButton" Id="39946" BeginGroup="1" Caption="Ny AutoSkabelon" TooltipText="Ny AutoSkabelon"/>
+				<Control Class="CXTPControlButton" Id="39947" Caption="Rediger AutoSkabelon" TooltipText="Rediger AutoSkabelon"/>
+				<Control Class="CXTPControlButton" Id="39948" Caption="Kør AutoSkabelon" TooltipText="Kør AutoSkabelon"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777245">
+			<Controls>
+				<Control Class="CXTPControlGallery" Type="10" Id="50032" Flags="64" Width="108" Height="36" ShowBorders="0" ShowScrollBar="0"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777246" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32945" Caption="&amp;Pre-defineret..." TooltipText="&amp;Pre-defineret..."/>
+				<Control Class="CXTPControlButton" Id="32946" Caption="&amp;Direkte Input..." TooltipText="&amp;Direkte Input..."/>
+				<Control Class="CXTPControlButton" Id="32947" Caption="User Cycle..." TooltipText="User Cycle..."/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777247" Style="4194304" Title="Redigér Bearbejdning">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="32921" Caption="&amp;Vis/Rediger Værktøjsbaner" TooltipText="&amp;Vis/Rediger Værktøjsbaner"/>
+				<Control Class="CXTPControlButton" Id="32920" Caption="&amp;Redigér Ilgange" TooltipText="&amp;Redigér Ilgange"/>
+				<Control Class="CXTPControlButton" Id="32914" Caption="&amp;Støtteflige..." TooltipText="&amp;Støtteflige..."/>
+				<Control Class="CXTPControlButton" Id="32915" Caption="&amp;Fjern støtteflige" TooltipText="&amp;Fjern støtteflige"/>
+				<Control Class="CXTPControlButton" Id="33167" Caption="&amp;Langsom omkring Hjørner..." TooltipText="&amp;Langsom omkring Hjørner..."/>
+				<Control Class="CXTPControlButton" Id="33525" Caption="&amp;Redigér Fremføring" TooltipText="&amp;Redigér Fremføring"/>
+				<Control Class="CXTPControlButton" Id="33168" Caption="&amp;Redigér Z Punkt for Punkt" TooltipText="&amp;Redigér Z Punkt for Punkt"/>
+				<Control Class="CXTPControlButton" Id="33466" Caption="Redigér værktøj &amp;Vinkel" TooltipText="Redigér værktøj &amp;Vinkel"/>
+				<Control Class="CXTPControlButton" Id="33587" Caption="Redigér &amp;5-Akset Værktøjsbane" TooltipText="Redigér &amp;5-Akset Værktøjsbane"/>
+				<Control Class="CXTPControlButton" Id="33595" Caption="Konvertér Værktøjsvinkel..." TooltipText="Konvertér Værktøjsvinkel..."/>
+				<Control Class="CXTPControlButton" Id="33713" Caption="Konverter 3D Værktøjsbaner til Helicale Buer..." TooltipText="Konverter 3D Værktøjsbaner til Helicale Buer..."/>
+				<Control Class="CXTPControlButton" Id="33723" Caption="Udjævn 5_Akset Værktøjsbane" TooltipText="Udjævn 5_Akset Værktøjsbane"/>
+				<Control Class="CXTPControlButton" Id="33527" Caption="Sæt Startpunkt(er) for Lommefræsning" TooltipText="Sæt Startpunkt(er) for Lommefræsning"/>
+				<Control Class="CXTPControlButton" Id="33101" Caption="&amp;Omvend Fræseretning" TooltipText="&amp;Omvend Fræseretning"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777248" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33778" Caption="&amp;Åbn Maskine..." TooltipText="&amp;Åbn Maskine..."/>
+				<Control Class="CXTPControlButton" Id="33777" Caption="&amp;Gem Maskine..." TooltipText="&amp;Gem Maskine..."/>
+				<Control Class="CXTPControlButton" Id="33779" Caption="&amp;Fjern Maskine" TooltipText="&amp;Fjern Maskine"/>
+				<Control Class="CXTPControlButton" Id="33782" Caption="Sæt &amp;Forvalgt Maskine..." TooltipText="Sæt &amp;Forvalgt Maskine..."/>
+				<Control Class="CXTPControlButton" Id="33783" Caption="&amp;Nulstil Forvalgt Maskine" TooltipText="&amp;Nulstil Forvalgt Maskine"/>
+				<Control Class="CXTPControlButton" Id="33767" Caption="&amp;Maskin Konfiguration..." TooltipText="&amp;Maskin Konfiguration..."/>
+				<Control Class="CXTPControlButton" Id="33768" BeginGroup="1" Caption="&amp;Definer Maskin Komponent" TooltipText="&amp;Definer Maskin Komponent"/>
+				<Control Class="CXTPControlButton" Id="33770" Caption="Sæt &amp;Værktøjets Udgangsposition" TooltipText="Sæt &amp;Værktøjets Udgangsposition"/>
+				<Control Class="CXTPControlButton" Id="33830" Caption="Sæt Borekasse Position" TooltipText="Sæt Borekasse Position"/>
+				<Control Class="CXTPControlButton" Id="33813" Caption="Angiv Slave &amp;Hoved Positioner" TooltipText="Angiv Slave &amp;Hoved Positioner"/>
+				<Control Class="CXTPControlButton" Id="33814" Caption="Slet Slave Hoved Positioner" TooltipText="Slet Slave Hoved Positioner"/>
+				<Control Class="CXTPControlButton" Id="33769" Caption="Definer &amp;Akser" TooltipText="Definer &amp;Akser"/>
+				<Control Class="CXTPControlButton" Id="33776" BeginGroup="1" Caption="Sæt &amp;Sikkerheds Område" TooltipText="Sæt &amp;Sikkerheds Område"/>
+				<Control Class="CXTPControlButton" Id="33780" Caption="Flyt &amp;Emne" TooltipText="Flyt &amp;Emne"/>
+				<Control Class="CXTPControlButton" Id="33781" Caption="&amp;Roter Emne" TooltipText="&amp;Roter Emne"/>
+			</Controls>
+		</CommandBar>
+		<CommandBar Class="CXTPPopupBar" Type="2" Position="5" BarID="16777249" Style="4194304">
+			<Controls>
+				<Control Class="CXTPControlButton" Id="33721" Caption="Definer Clamps/Fixturer" TooltipText="Definer Clamps/Fixturer"/>
+				<Control Class="CXTPControlButton" Id="33707" Caption="Flyt Clamps/Fixturer" TooltipText="Flyt Clamps/Fixturer"/>
+				<Control Class="CXTPControlButton" Id="33822" Caption="Bevægelige Clamps" TooltipText="Bevægelige Clamps"/>
+				<Control Class="CXTPControlButton" Id="33734" Caption="Angiv Udgangs position" TooltipText="Angiv Udgangs position"/>
+				<Control Class="CXTPControlButton" Id="33837" Caption="Sæt Startpositioner Automatisk" TooltipText="Sæt Startpositioner Automatisk"/>
+				<Control Class="CXTPControlButton" Id="33743" Caption="Husk Nuværende Positioner" TooltipText="Husk Nuværende Positioner"/>
+				<Control Class="CXTPControlButton" Id="33737" Caption="Rediger Clamps/Fixturer" TooltipText="Rediger Clamps/Fixturer"/>
+			</Controls>
+		</CommandBar>
+	</CommandBars>
+</Settings>
