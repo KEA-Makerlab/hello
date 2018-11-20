@@ -160,7 +160,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bg_Logo.png) no-repeat center center scroll;
+    background: url(../img/KEAStore/bg_LogoStore.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -181,6 +181,12 @@ hr.small {
 
 .service-item {
     margin-bottom: 30px;
+    
+}
+
+.bg-primary {
+  color: #fff;
+  background-color: #10069F;
 }
 
 /* Callout */
@@ -254,23 +260,14 @@ footer {
   right: 5px;
 }
 
-.bg-primary {
-  color: #fff;
-  background-color: #EE2737;
+.fa-shopping-cart  {
+	color: #10069F;
 }
 
-.fa-cloud-download  {
-	color: #EE2737;
+.fa-users  {
+	color: #10069F;
 }
 
-.fa-calendar  {
-	color: #EE2737;
-}
-
-.fa-book  {
-	color: #EE2737;
-}
-
-.fa-edit  {
-	color: #EE2737;
+.fa-camera  {
+	color: #10069F;
 }
