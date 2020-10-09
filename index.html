@@ -353,6 +353,24 @@
         // Enable map zooming with mouse scroll when the user clicks the map
     $('.map').on('click', onMapClickHandler);
     </script>
+  
+    
+    
+<script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+<script>
+  var myLandbot = new LandbotLivechat({
+    index: 'https://chats.landbot.io/v2/H-724837-SICU8ZB5IFU6VAOC/index.html',
+  });
+</script>
+        
+      
+<script> 
+    myLandbot.on('landbot-load', () => { 
+        myLandbot.open() 
+    }) 
+</script>
+    
+    
 
 </body>
 
